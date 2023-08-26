@@ -1,81 +1,93 @@
 <?xml version="1.0" ?>
-<pqevents>
-  <pqevent object="1Gui::MainWindow0/Gui::CommandAction0/Fem_NewDoc" command="activate" arguments="" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="expand" arguments="0.0.0.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="expand" arguments="0.0.1.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="expand" arguments="0.0.1.0.1.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="expand" arguments="0.0.1.0.2.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="expand" arguments="0.0.1.0.3.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setCurrent" arguments="0.0.1.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setSelection" arguments="0.0.1.0,0.0.1.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setCheckState" arguments="0.0.1.0,0" />
-  <pqevent object="1Gui::MainWindow0/Properties/Properties/1Gui::PropertyView0/propertyTab/qt_tabwidget_stackedwidget/1Gui::PropertyOperator::PropertyOperator0" command="setCurrent" arguments="5.1" />
-  <pqevent object="1Gui::MainWindow0/Properties/Properties/1Gui::PropertyView0/propertyTab/qt_tabwidget_stackedwidget/1Gui::PropertyOperator::PropertyOperator0/qt_scrollarea_viewport/0QComboBox0" command="activated" arguments="Fluids" />
-  <pqevent object="1Gui::MainWindow0/Properties/Properties/1Gui::PropertyView0/propertyTab/qt_tabwidget_stackedwidget/1Gui::PropertyOperator::PropertyOperator0" command="setCurrent" arguments="4.1" />
-  <pqevent object="1Gui::MainWindow0/Properties/Properties/1Gui::PropertyView0/propertyTab/qt_tabwidget_stackedwidget/1Gui::PropertyOperator::PropertyOperator0/qt_scrollarea_viewport/1QComboBox0" command="activated" arguments="2" />
-  <pqevent object="1Gui::MainWindow0/Gui::CommandAction24/Fem_ImportPart" command="activate" arguments="" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="expand" arguments="0.0.1.0.0.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setCurrent" arguments="0.0.1.0.0.0.0.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setSelection" arguments="0.0.1.0.0.0.0.0,0.0.1.0.0.0.0.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setCheckState" arguments="0.0.1.0.0.0.0.0,0" />
-  <pqevent object="1Gui::MainWindow0/Properties/Properties/1Gui::PropertyView0/propertyTab/qt_tabwidget_stackedwidget/1Gui::PropertyOperator::PropertyOperator0" command="setCurrent" arguments="8.1" />
-  <pqevent object="1Gui::MainWindow0/Properties/Properties/1Gui::PropertyView0/propertyTab/qt_tabwidget_stackedwidget/1Gui::PropertyOperator::PropertyOperator0/qt_scrollarea_viewport/1QComboBox0" command="activated" arguments="Air (ID:4)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mousePress" arguments="(0.209497,0.630473,1,1,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseMove" arguments="(0.209497,0.630473,1,0,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseRelease" arguments="(0.209497,0.630473,1,0,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mousePress" arguments="(0.258845,0.224168,4,4,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseMove" arguments="(0.294227,0.604203,4,0,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseRelease" arguments="(0.294227,0.604203,4,0,0)" />
-  <pqevent object="1Gui::MainWindow0/Gui::CommandAction37/Fem_MeshAll" command="activate" arguments="" />
-  <pqevent object="DlgIPC/pb_close" command="activate" arguments="" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setCurrent" arguments="0.0.1.0.2.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setSelection" arguments="0.0.1.0.2.0,0.0.1.0.2.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setCheckState" arguments="0.0.1.0.2.0,0" />
-  <pqevent object="1Gui::MainWindow0/Gui::CommandAction109/Fem_BCEuler" command="activate" arguments="" />
-  <pqevent object="1Gui::MainWindow0/Gui::CommandAction110/Fem_BCFarfield" command="activate" arguments="" />
-  <pqevent object="1Gui::MainWindow0/Gui::CommandAction43/Fem_InitVelocity" command="activate" arguments="" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setCurrent" arguments="0.0.1.0.2.0.1.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setSelection" arguments="0.0.1.0.2.0.1.0,0.0.1.0.2.0.1.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setCheckState" arguments="0.0.1.0.2.0.1.0,0" />
-  <pqevent object="1Gui::MainWindow0/Gui::CommandAction9/Std_SelectEdge" command="set_boolean" arguments="true" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mousePress" arguments="(0.489758,0.472855,1,1,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseMove" arguments="(0.489758,0.472855,1,0,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseRelease" arguments="(0.489758,0.472855,1,0,0)" />
-  <pqevent object="1Gui::MainWindow0/Properties/Properties/1Gui::PropertyView0/propertyTab/qt_tabwidget_stackedwidget/1Gui::PropertyOperator::PropertyOperator0" command="setCurrent" arguments="5.1" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setCurrent" arguments="0.0.1.0.2.0.2.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setSelection" arguments="0.0.1.0.2.0.2.0,0.0.1.0.2.0.2.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setCheckState" arguments="0.0.1.0.2.0.2.0,0" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mousePress" arguments="(0.306331,0.425569,1,1,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseMove" arguments="(0.306331,0.425569,1,0,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseRelease" arguments="(0.306331,0.425569,1,0,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="keyEvent" arguments="6:16777249:67108864::0:1" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mousePress" arguments="(0.52514,0.141856,1,1,67108864)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseMove" arguments="(0.52514,0.141856,1,0,67108864)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseRelease" arguments="(0.52514,0.141856,1,0,67108864)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseMove" arguments="(0.52514,0.14711,1,0,67108864)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseRelease" arguments="(0.52514,0.14711,1,0,67108864)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mousePress" arguments="(0.674115,0.25394,1,1,67108864)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseMove" arguments="(0.674115,0.25394,1,0,67108864)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseRelease" arguments="(0.674115,0.25394,1,0,67108864)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mousePress" arguments="(0.554935,0.835377,1,1,67108864)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseMove" arguments="(0.554935,0.835377,1,0,67108864)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseRelease" arguments="(0.554935,0.835377,1,0,67108864)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="keyEvent" arguments="7:16777249:0::0:1" />
-  <pqevent object="1Gui::MainWindow0/Properties/Properties/1Gui::PropertyView0/propertyTab/qt_tabwidget_stackedwidget/1Gui::PropertyOperator::PropertyOperator0" command="setCurrent" arguments="5.1" />
-  <pqevent object="1Gui::MainWindow0/Properties/Properties/1Gui::PropertyView0/propertyTab/qt_tabwidget_stackedwidget/1Gui::PropertyOperator::PropertyOperator0/qt_scrollarea_viewport/1Gui::PropertyOperator::SelectionEditor0/1QPushButton0" command="activate" arguments="" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setCurrent" arguments="0.0.1.0.2.0.3.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setSelection" arguments="0.0.1.0.2.0.3.0,0.0.1.0.2.0.3.0" />
-  <pqevent object="1Gui::MainWindow0/Project Explorer/Project Explorer/1Gui::TreeWidget0" command="setCheckState" arguments="0.0.1.0.2.0.3.0,0" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mousePress" arguments="(0.41527,0.341506,1,1,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseMove" arguments="(0.41527,0.341506,1,0,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseRelease" arguments="(0.41527,0.341506,1,0,0)" />
-  <pqevent object="1Gui::MainWindow0/Gui::CommandAction11/Std_SelectVolumeOrElem" command="set_boolean" arguments="true" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mousePress" arguments="(0.452514,0.276708,1,1,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseMove" arguments="(0.452514,0.278459,1,0,0)" />
-  <pqevent object="1Gui::MainWindow0/1QMdiArea0/1QWidget0/1QMdiSubWindow0/1Gui::qView3DMRML0/1QWidget0/ThreeDWidget3D/1qMRMLThreeDView0/1ctkVTKOpenGLNativeWidget0" command="mouseRelease" arguments="(0.452514,0.278459,1,0,0)" />
-  <pqevent object="1Gui::MainWindow0/Properties/Properties/1Gui::PropertyView0/propertyTab/qt_tabwidget_stackedwidget/1Gui::PropertyOperator::PropertyOperator0" command="setCurrent" arguments="5.1" />
-  <pqevent object="1Gui::MainWindow0/Properties/Properties/1Gui::PropertyView0/propertyTab/qt_tabwidget_stackedwidget/1Gui::PropertyOperator::PropertyOperator0" command="setCurrent" arguments="7.1" />
-  <pqevent object="1Gui::MainWindow0/Properties/Properties/1Gui::PropertyView0/propertyTab/qt_tabwidget_stackedwidget/1Gui::PropertyOperator::PropertyOperator0" command="activate" arguments="7.1" />
-  <pqevent object="1Gui::MainWindow0/Properties/Properties/1Gui::PropertyView0/propertyTab/qt_tabwidget_stackedwidget/1Gui::PropertyOperator::PropertyOperator0" command="activate" arguments="7.1" />
-  <pqevent object="1Gui::MainWindow0/Gui::CommandAction1/Std_Save" command="activate" arguments="" />
-  <pqevent object="1Gui::MainWindow0/Gui::CommandAction45/Fem_Solve" command="activate" arguments="" />
+<wsevents>
+  <wsevent object="wsMainWindow/Std_DlgUserPref/Std_DlgUserPref" command="activate" arguments="" />
+  <wsevent object="wsMainWindow/PreferencesDialog/pagesWidget/general/scrollArea/qt_scrollarea_viewport/contents/tabWidget/qt_tabwidget_tabbar" command="set_tab_with_text" arguments="Units" />
+  <wsevent object="wsMainWindow/PreferencesDialog/pagesWidget/general/scrollArea/qt_scrollarea_viewport/contents/tabWidget/qt_tabwidget_stackedwidget/tabUnits/groupBoxUnits/radioUnitsMMKS" command="set_boolean" arguments="true" />
+  <wsevent object="wsMainWindow/PreferencesDialog/buttonBox/1QPushButton0" command="activate" arguments="" />
+
+  <wsevent object="wsMainWindow/menuBar" command="activate" arguments="&amp;File" />
+  <wsevent object="wsMainWindow/menuBar/&amp;File" command="activate" arguments="Fem_NewDoc" />
+  <wsevent object="wsMainWindow/menuBar" command="activate" arguments="&amp;Geometry" />
+  <wsevent object="wsMainWindow/menuBar/&amp;Geometry" command="activate" arguments="Fem_ImportPart" />
+  <wsevent object="wsMainWindow/FileOpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_Shapes/hole_plate_2d.step" />
+
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="expand" arguments="0.0.1.0.0.0" />
+  <wsevent object="wsMainWindow/wsMdiArea/1QWidget0/1QMdiSubWindow0/qView3DMRML/1QWidget0/ThreeDWidget3D/1qMRMLThreeDViewControllerWidget0/qMRMLThreeDViewControllerWidget/AxesWidget" command="mousePress" arguments="1,1,0,50,30" />
+  <wsevent object="wsMainWindow/wsMdiArea/1QWidget0/1QMdiSubWindow0/qView3DMRML/1QWidget0/ThreeDWidget3D/1qMRMLThreeDViewControllerWidget0/qMRMLThreeDViewControllerWidget/AxesWidget" command="mouseRelease" arguments="1,0,0,50,29" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCurrent" arguments="0.0.1.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setSelection" arguments="0.0.1.0,0.0.1.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCheckState" arguments="0.0.1.0,0" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="4.1" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/0Dimension" command="activated" arguments="2" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/0Physics Type" command="activated" arguments="Fluids" />
+
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCurrent" arguments="0.0.1.0.0.0.0.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setSelection" arguments="0.0.1.0.0.0.0.0,0.0.1.0.0.0.0.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCheckState" arguments="0.0.1.0.0.0.0.0,0" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="8.1" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/11Material" command="activated" arguments="Air (ID:3)" />
+
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCurrent" arguments="0.0.1.0.1.0.0.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setSelection" arguments="0.0.1.0.1.0.0.0,0.0.1.0.1.0.0.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCheckState" arguments="0.0.1.0.1.0.0.0,0" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="4.1" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/7Maximum Size" command="key" arguments="16777219" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/7Maximum Size" command="set_double" arguments="0.1" />
+
+  <wsevent object="wsMainWindow/Fem_MeshAll/Fem_MeshAll" command="activate" arguments="" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCurrent" arguments="0.0.1.0.1.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setSelection" arguments="0.0.1.0.1.0,0.0.1.0.1.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCheckState" arguments="0.0.1.0.1.0,0" />
+
+  <wsevent object="wsMainWindow/Fem_BCEuler/Fem_BCEuler" command="activate" arguments="" />
+  <wsevent object="wsMainWindow/Fem_BCFarfield/Fem_BCFarfield" command="activate" arguments="" />
+  <wsevent object="wsMainWindow/Fem_InitVelocity/Fem_InitVelocity" command="activate" arguments="" />
+
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCurrent" arguments="0.0.1.0.2.0.1.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setSelection" arguments="0.0.1.0.2.0.1.0,0.0.1.0.2.0.1.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCheckState" arguments="0.0.1.0.2.0.1.0,0" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/12Geometry/SelectionButtonOK" command="set_selection" arguments="Obj11_Edge5" />
+
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCurrent" arguments="0.0.1.0.2.0.2.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setSelection" arguments="0.0.1.0.2.0.2.0,0.0.1.0.2.0.2.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCheckState" arguments="0.0.1.0.2.0.2.0,0" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13Geometry/SelectionButtonOK" command="set_selection" arguments="Obj11_Edge4;;Obj11_Edge1;;Obj11_Edge2;;Obj11_Edge3" />
+
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCurrent" arguments="0.0.1.0.2.0.3.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setSelection" arguments="0.0.1.0.2.0.3.0,0.0.1.0.2.0.3.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCheckState" arguments="0.0.1.0.2.0.3.0,0" />
+  <wsevent object="wsMainWindow/Std_SelectVolumeOrElem/Std_SelectVolumeOrElem" command="set_boolean" arguments="true" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/14Geometry/SelectionButtonOK" command="set_selection" arguments="Obj11_Body1" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="7.1" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/14Velocity X" command="set_double" arguments="-1.55" />
+
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCurrent" arguments="0.0.1.0.2.0.0.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setSelection" arguments="0.0.1.0.2.0.0.0,0.0.1.0.2.0.0.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCheckState" arguments="0.0.1.0.2.0.0.0,0" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="9.1" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/9Solver" command="activated" arguments="SU2" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="27.1" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/9Fluid Model" command="activated" arguments="Peng-Robinson Gas" />
+
+  <wsevent object="wsMainWindow/Fem_Solve/Fem_Solve" command="activate" arguments="" />
+
+  <wsevent object="wsMainWindow/Fem_RstCfdPressure/Fem_RstCfdPressure" command="activate" arguments="" />
+  <wsevent object="wsMainWindow/Fem_RstCfdVelocity/Fem_RstCfdVelocity" command="activate" arguments="" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setSelection" arguments="0.0.1.0.3.0.0.0,0.0.1.0.3.0.0.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCheckState" arguments="0.0.1.0.3.0.0.0,0" />
+  <wsevent object="wsMainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
+  <wscheck object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="8.1,0.5009 kPa" />
+  <wscheck object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,-1.474 kPa" />
+
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCurrent" arguments="0.0.1.0.3.0.1.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setSelection" arguments="0.0.1.0.3.0.1.0,0.0.1.0.3.0.1.0" />
+  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCheckState" arguments="0.0.1.0.3.0.1.0,0" />
+  <wsevent object="wsMainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
+  <wscheck object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,1.953 mm/s" />
+  <wscheck object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,0.00509 mm/s" />
+</wsevents>
