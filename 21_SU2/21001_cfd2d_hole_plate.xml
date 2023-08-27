@@ -33,7 +33,7 @@
   <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCheckState" arguments="0.0.1.0.1.0.0.0,0" />
   <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="4.1" />
   <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/7Maximum Size" command="key" arguments="16777219" />
-  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/7Maximum Size" command="set_double" arguments="0.1" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/7Maximum Size" command="set_double" arguments="0.3" />
 
   <wsevent object="wsMainWindow/Fem_MeshAll/Fem_MeshAll" command="activate" arguments="" />
   <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCurrent" arguments="0.0.1.0.1.0" />
@@ -82,12 +82,12 @@
   <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCheckState" arguments="0.0.1.0.3.0.0.0,0" />
   <wsevent object="wsMainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
   <wscheck object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="8.1,0.5009 kPa" />
-  <wscheck object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,-1.474 kPa" />
+  <wscheck object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,-1.334 kPa" />
 
   <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCurrent" arguments="0.0.1.0.3.0.1.0" />
   <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setSelection" arguments="0.0.1.0.3.0.1.0,0.0.1.0.3.0.1.0" />
   <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCheckState" arguments="0.0.1.0.3.0.1.0,0" />
   <wsevent object="wsMainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
-  <wscheck object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,1.953 mm/s" />
-  <wscheck object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,0.00509 mm/s" />
+  <wscheck object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,1.833 mm/s" />
+  <wscheck object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,0.008953 mm/s" />
 </wsevents>
