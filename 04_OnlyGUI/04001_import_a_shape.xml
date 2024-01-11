@@ -9,6 +9,6 @@
   <wsevent object="wsMainWindow/Project Explorer/Project Explorer/wsTreeWidget" command="expand" arguments="0.0.1.0.3.0" />
   <wsevent object="wsMainWindow/menuBar" command="activate" arguments="&amp;Geometry" />
   <wsevent object="wsMainWindow/menuBar/&amp;Geometry" command="activate" arguments="Fem_ImportPart" />
-  <wsevent object="wsMainWindow/FileOpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_Shapes/hole_plate_2d.step" />
+  <wsevent object="wsMainWindow/FileOpenDlg" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_Shapes/hole_plate_2d.step" />
   <wsevent object="wsMainWindow/Project Explorer/Project Explorer/wsTreeWidget" command="expand" arguments="0.0.1.0.0.0" />
 </wsevents>
