@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testbook>
+    <tests title="GUI">
+        <test>04_OnlyGUI/04001_import_a_shape.xml</test>
+        <test>04_OnlyGUI/04002_close_all_projects.xml</test>
+    </tests>
+    <tests title="FrontISTR">
+        <test>11_FrontISTR/11001_structural_solid_pressure_box.xml</test>
+    </tests>
+</testbook>
+
+
