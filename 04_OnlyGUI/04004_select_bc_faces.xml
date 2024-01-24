@@ -17,8 +17,8 @@
   <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
   <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13Geometry/SelectionButtonOK" command="set_selection" arguments="Obj11_Face1" />
   <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="7.1" />
-  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13Normal Pressure/wsQuantitySpinBox" command="set_double" arguments="50" />
-  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13Normal Pressure/wsQuantitySpinBox" command="key" arguments="16777221" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13Normal Pressure/quantitySpinBox" command="set_double" arguments="50" />
+  <wsevent object="wsMainWindow/DockPropertyDockingView/PropertyDockingView/PropertyView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13Normal Pressure/quantitySpinBox" command="key" arguments="16777221" />
   
   <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setCurrent" arguments="0.0.1.0.3.0" />
   <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="setSelection" arguments="0.0.1.0.3.0,0.0.1.0.3.0" />
