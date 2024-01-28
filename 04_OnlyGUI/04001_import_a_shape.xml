@@ -9,6 +9,6 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="expand" arguments="0.0.1.0.3.0" />
   <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;Geometry" />
   <wsevent object="mainWindow/menuBar/&amp;Geometry" command="activate" arguments="Fem_ImportPart" />
-  <wsevent object="mainWindow/FileOpenDlg" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_Shapes/hole_plate_2d.step" />
+  <wsevent object="mainWindow/FileOpenDlg" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/hole_plate_2d.step" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="expand" arguments="0.0.1.0.0.0" />
 </wsevents>
