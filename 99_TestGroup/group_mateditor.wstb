@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testbook>
+    <tests title="GUI">
+        <test>06_MatEditor/06001_test_data_uniaxial.xml</test>
+        <test>06_MatEditor/06002_test_data_biaxial.xml</test>
+        <test>06_MatEditor/06003_test_data_shear.xml</test>
+        <test>06_MatEditor/06004_test_data_volumetric.xml</test>
+        <test>06_MatEditor/06005_test_data_p-b.xml</test>
+        <test>06_MatEditor/06006_test_data_uniaxial_plastic_strain.xml</test>
+        <test>06_MatEditor/06007_test_data_shear_viscoelastic.xml</test>
+        <test>06_MatEditor/06008_test_data_bulk_viscoelastic.xml</test>
+        <test>06_MatEditor/06009_test_data_rmb_context_menu.xml</test>
+
+        <test>06_MatEditor/06101_curvefit_neohookean.xml</test>
+        <test>06_MatEditor/06102_curvefit_mr2.xml</test>
+        <test>06_MatEditor/06103_curvefit_mr3.xml</test>
+        <test>06_MatEditor/06104_curvefit_mr5.xml</test>
+        <test>06_MatEditor/06105_curvefit_mr9.xml</test>
+        <test>06_MatEditor/06107_curvefit_arrudaboyce.xml</test>
+        <test>06_MatEditor/06108_curvefit_blatzko.xml</test>
+        <test>06_MatEditor/06109_curvefit_gent.xml</test>
+        <test>06_MatEditor/06110_curvefit_ogden1.xml</test>
+        <test>06_MatEditor/06111_curvefit_ogden2.xml</test>
+        <test>06_MatEditor/06112_curvefit_ogden3.xml</test>
+        <test>06_MatEditor/06113_curvefit_polynomial1.xml</test>
+        <test>06_MatEditor/06114_curvefit_polynomial2.xml</test>
+        <test>06_MatEditor/06115_curvefit_polynomial3.xml</test>
+        <test>06_MatEditor/06116_curvefit_yoeh1.xml</test>
+        <test>06_MatEditor/06117_curvefit_yoeh2.xml</test>
+        <test>06_MatEditor/06118_curvefit_yoeh3.xml</test>
+    </tests>
+</testbook>
+
+

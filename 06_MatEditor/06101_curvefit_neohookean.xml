@@ -171,7 +171,7 @@
 
 
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="3" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_hyper/lw_build_hyper" command="setCheckState" arguments="2.0,2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_hyper/lw_build_hyper" command="setCheckState" arguments="0.0,2" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="3.0" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="expand" arguments="3.0" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="3.0" />
@@ -183,7 +183,6 @@
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="3.0.2.0" />
   <wsevent object="matContextMenu" command="activate" arguments="CopyCalculatedValuesToProperty" />
 
-  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" property="modelItemData" arguments="3.0.0.1,2.76233" />
-  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" property="modelItemData" arguments="3.0.1.1,-0.87712" />
-  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" property="modelItemData" arguments="3.0.2.1,0.1344" />
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" property="modelItemData" arguments="3.0.0.1,3.66241" />
+
 </wsevents>
