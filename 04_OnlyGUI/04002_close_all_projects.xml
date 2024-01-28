@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <wsevents>
-  <wsevent object="wsMainWindow/menuBar" command="activate" arguments="&amp;File" />
-  <wsevent object="wsMainWindow/menuBar/&amp;File" command="activate" arguments="Fem_NewDoc" />
-  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="expand" arguments="0.0.0.0" />
-  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="expand" arguments="0.0.1.0" />
-  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="expand" arguments="0.0.1.0.1.0" />
-  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="expand" arguments="0.0.1.0.2.0" />
-  <wsevent object="wsMainWindow/DockTreeDockWidget/TreeDockWidget/wsTreeWidget" command="expand" arguments="0.0.1.0.3.0" />
-  <wsevent object="wsMainWindow/menuBar" command="activate" arguments="&amp;File" />
-  <wsevent object="wsMainWindow/menuBar/&amp;File" command="activate" arguments="Fem_CloseAllDocs" />
-  <wsevent object="wsMainWindow/1QMessageBox0/qt_msgbox_buttonbox/1QPushButton1" command="activate" arguments="" />
+  <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
+  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_NewDoc" />
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="expand" arguments="0.0.0.0" />
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="expand" arguments="0.0.1.0" />
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="expand" arguments="0.0.1.0.1.0" />
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="expand" arguments="0.0.1.0.2.0" />
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="expand" arguments="0.0.1.0.3.0" />
+  <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
+  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_CloseAllDocs" />
+  <wsevent object="mainWindow/1QMessageBox0/qt_msgbox_buttonbox/1QPushButton1" command="activate" arguments="" />
 </wsevents>

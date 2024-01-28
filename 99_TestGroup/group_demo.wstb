@@ -3,6 +3,7 @@
     <tests title="GUI">
         <test>04_OnlyGUI/04001_import_a_shape.xml</test>
         <test>04_OnlyGUI/04002_close_all_projects.xml</test>
+        <test>04_OnlyGUI/04003_select_bc_face.xml</test>
         <test>04_OnlyGUI/04004_select_bc_faces.xml</test>
         <test>04_OnlyGUI/04005_change_perf_unit.xml</test>
         <test>04_OnlyGUI/04006_create_delete_mat_obj.xml</test>
