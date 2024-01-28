@@ -1,8 +1,8 @@
 # WelSimAutoTests
-This repository contains official WelSim regression test cases. You are welcome to run the tests on your local computer or submit your test cases here.
+This repository contains official WelSim regression test cases. You are welcome to run the tests on your local computer or submit new test cases.
 
 ## Running tests
-1. Download or clone the repository.
+1. Download the zip file or clone the repository.
 2. Set environment variables **WELSIM_DATA_ROOT** to the **WelSimAutoTests** folder.
 3. Start the WELSIM application, select the **Play test...** action from the menu **Tools**.
 4. Load the test cases and run.
