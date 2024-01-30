@@ -9,7 +9,7 @@
   <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;Geometry" />
   <wsevent object="mainWindow/menuBar/&amp;Geometry" command="activate" arguments="Fem_ImportPart" />
 
-  <wsevent object="mainWindow/FileOpenDlg" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_Shapes/naca0012_2d.step" />
+  <wsevent object="mainWindow/FileOpenDlg" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/naca0012_2d.step" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="expand" arguments="0.0.1.0.0.0" />
 
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/wsMidSubWindow/qView3DMRML/1QWidget0/ThreeDWidget3D/1qMRMLThreeDViewControllerWidget0/BarWidget/PinButton" command="set_boolean" arguments="true" />
