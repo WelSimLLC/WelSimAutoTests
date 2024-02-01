@@ -10,39 +10,39 @@
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="2" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_testdata/lw_build_testdata" command="setCheckState" arguments="4.0,2" />
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0" />
   <wsevent object="matContextMenu" command="activate" arguments="Expand" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="expand" arguments="0.0" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="expand" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0" />
   <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0.1.0" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0.1.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.1.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0.1.0" />
   <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0.2.0" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0.2.0" />
-  <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
-
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0.3.0" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0.3.0" />
-  <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0.4.0" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0.4.0" />
-  <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0.5.0" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0.5.0" />
-  <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0.6.0" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0.6.0" />
-  <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0.7.0" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0.7.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.2.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0.2.0" />
   <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.3.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0.3.0" />
+  <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.4.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0.4.0" />
+  <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.5.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0.5.0" />
+  <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.6.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0.6.0" />
+  <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.7.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0.7.0" />
+  <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
+
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0" />
   <wsevent object="matContextMenu" command="activate" arguments="Collapse" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0" />
   <wsevent object="matContextMenu" command="activate" arguments="Expand" />
 
 </wsevents>

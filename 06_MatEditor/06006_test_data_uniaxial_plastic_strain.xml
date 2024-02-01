@@ -10,11 +10,11 @@
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="2" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_testdata/lw_build_testdata" command="setCheckState" arguments="4.0,2" />
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0" />
   <wsevent object="matContextMenu" command="activate" arguments="Expand" />
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0.0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.0.0" />
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="edit" arguments="0.0" />
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="editAccepted" arguments="0.0,21" />
 
@@ -61,10 +61,10 @@
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" command="editAccepted" arguments="9.1,11.1" />
 
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="expand" arguments="0.0" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="expand" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0" />
   <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0.1.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.1.0" />
 
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="edit" arguments="0.0" />
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="editAccepted" arguments="0.0,22" />
@@ -114,9 +114,9 @@
 
 
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="openContextMenu" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="openContextMenu" arguments="0.0" />
   <wsevent object="matContextMenu" command="activate" arguments="AddTestData" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0.2.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.2.0" />
 
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="edit" arguments="0.0" />
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="editAccepted" arguments="0.0,23" />
@@ -164,7 +164,7 @@
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" command="editAccepted" arguments="9.1,11.111" /> 
 
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0.0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.0.0" />
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="0.0,21" />
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" property="modelItemData" arguments="0.0,0.1" />
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" property="modelItemData" arguments="1.0,0.2" />
@@ -188,7 +188,7 @@
 
 
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0.1.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.1.0" />
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="0.0,22" />
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" property="modelItemData" arguments="0.0,0.11" />
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" property="modelItemData" arguments="1.0,0.22" />
@@ -212,7 +212,7 @@
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" property="modelItemData" arguments="9.1,11.11" />
 
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropertiesView/PropertyEditor" command="setCurrent" arguments="0.0.2.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.2.0" />
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="0.0,23" />
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" property="modelItemData" arguments="0.0,0.111" />
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" property="modelItemData" arguments="1.0,0.222" />
