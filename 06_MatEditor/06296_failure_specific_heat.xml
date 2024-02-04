@@ -6,5 +6,18 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.0.0.2.0" />
   <wsevent object="wsContextMenu" command="activate" arguments="Mat_Edit" />
 
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_tabbar" command="set_tab_with_text" arguments="Build" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="10" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_thermal/lw_build_thermal" command="setCheckState" arguments="2.0,2" />
+
+  <!-- <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" /> -->
+  <!-- <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/comboUnit" command="activated" arguments="kg/m³" /> -->
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueSpecificHeat" command="set_double" arguments="86" />
+
+
+  <!-- <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/unitDensity" command="activated" arguments="g/cm³" /> -->
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.1,86" /> 
 
 </wsevents>

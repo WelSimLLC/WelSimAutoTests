@@ -8,17 +8,16 @@
 
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_tabbar" command="set_tab_with_text" arguments="Build" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="11" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_em/lw_build_em" command="setCheckState" arguments="4.0,2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_em/lw_build_em" command="setCheckState" arguments="0.0,2" />
 
-  <!-- <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/unitIsotropicResistivity" command="activated" arguments="ohm cm" /> -->
-
+  <!-- <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" /> -->
+  <!-- <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/comboUnit" command="activated" arguments="kg/m³" /> -->
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.1" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueIsotropicRelativePermeability" command="set_double" arguments="1.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueIsotropicRelativePermittivity" command="set_double" arguments="1.1" />
 
 
   <!-- <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/unitDensity" command="activated" arguments="g/cm³" />  -->
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/unitDensity" command="activated" arguments="g/cm³" /> -->
   <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.1,1.1" /> 
 
 </wsevents>
