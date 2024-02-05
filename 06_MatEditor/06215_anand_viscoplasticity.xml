@@ -41,7 +41,7 @@
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueStrainRateSensitivityofHardeningofSofteninga" command="set_double" arguments="9.9" />
 
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.0.1" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/EnumComboBox" command="activated" arguments="MPa, K, s^-1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueReferenceUnits(Stress,Temperature,PerTime)" command="activated" arguments="MPa, K, s^-1" />
 
   <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.1.1,1.1" />
   <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.2.1,2.2" />

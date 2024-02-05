@@ -43,7 +43,7 @@
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="1.0.4.1" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueStrainRateExponent" command="set_double" arguments="2.2" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="1.0.5.1" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/EnumComboBox" command="activated" arguments="Deviatoric strain rate" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueStrainRateType" command="activated" arguments="Deviatoric strain rate" />
 
 
   <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="1.0.0.1,280" />
@@ -51,6 +51,6 @@
   <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="1.0.2.1,1.15" />
   <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="1.0.3.1,1.1" />
   <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="1.0.4.1,2.2" />
-  <!-- <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="1.0.5.1,Deviatoric strain rate" /> -->
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="1.0.5.1,Deviatoric strain rate" />
 
 </wsevents>

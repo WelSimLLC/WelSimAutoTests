@@ -7,53 +7,65 @@
   <wsevent object="wsContextMenu" command="activate" arguments="Mat_Edit" />
 
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_tabbar" command="set_tab_with_text" arguments="Build" />
-  <!-- <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="0" /> -->
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_basic/lw_build_basic" command="setCheckState" arguments="0.0,2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="12" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_fluid/lw_build_fluid" command="setCheckState" arguments="5.0,2" />
 
-  <!-- <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" /> -->
-  <!-- <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/comboUnit" command="activated" arguments="kg/m³" /> -->
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.1" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/SepScienceSpinBox" command="set_double" arguments="8600" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="expand" arguments="0.0" />
+
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.0.2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/unitEquationofStateA" command="activated" arguments="MPa" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.1.2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/unitEquationofStateB" command="activated" arguments="MPa" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.6.2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/unitChapmanJouguetPressure" command="activated" arguments="MPa" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.11.2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/unitInitialPressureP0" command="activated" arguments="MPa" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.12.2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/unitPressureShiftPsh" command="activated" arguments="MPa" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.13.2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/unitUnreactedExplosiveBulkModulus" command="activated" arguments="MPa" />
 
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/comboUnit" command="activated" arguments="g/cm³" />
-  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.1,8.6" /> 
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.0.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueEquationofStateA" command="set_double" arguments="11" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.1.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueEquationofStateB" command="set_double" arguments="22" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.2.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueEquationofStateR1" command="set_double" arguments="33" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.3.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueEquationofStateR2" command="set_double" arguments="44" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.4.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueEquationofStateomega" command="set_double" arguments="55" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.5.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueDetonationVelocityD" command="set_double" arguments="66" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.6.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueChapmanJouguetPressure" command="set_double" arguments="77" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.7.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueDetonationEnergyDensityE0" command="set_double" arguments="88" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.8.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueAdditionalEnergyDensityEadd" command="set_double" arguments="99" />
 
-  <!-- <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/comboUnit" command="activated" arguments="kg/mm³" />
-  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.1,8.6e-6" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.11.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueInitialPressureP0" command="set_double" arguments="111" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.12.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valuePressureShiftPsh" command="set_double" arguments="222" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0.13.1" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueUnreactedExplosiveBulkModulus" command="set_double" arguments="333" />
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/comboUnit" command="activated" arguments="tonne/mm³" />
-  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.1,8.6e-9" />
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/comboUnit" command="activated" arguments="tonne/mm³" />
-  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.1,8.6e-9" />
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.0.1,11" />
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.1.1,22" />
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.2.1,33" />
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.3.1,44" />
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.4.1,55" />
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.5.1,66" />
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.6.1,77" />
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.7.1,88" />
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.8.1,99" />
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/comboUnit" command="activated" arguments="decatonne/mm³" />
-  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.1,8.6e-10" />
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.11.1,111" />
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.12.1,222" />
+  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.0.13.1,333" />
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/comboUnit" command="activated" arguments="kg/um³" />
-  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.1,8.6e-15" />
-
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/comboUnit" command="activated" arguments="mg/mm³" />
-  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.1,8.6" />
-
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/comboUnit" command="activated" arguments="pg/um³" />
-  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.1,8.6" />
-
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/comboUnit" command="activated" arguments="slug/ft³" />
-  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.1,16.6868" />
-
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.2" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/comboUnit" command="activated" arguments="slug/in³" />
-  <wscheck object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" property="modelItemData" arguments="0.1,0.00965668" /> -->
 
 </wsevents>
