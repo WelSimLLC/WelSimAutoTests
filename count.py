@@ -1,7 +1,16 @@
 import os
 
+dir_paths = ['04_OnlyGUI', 
+             '06_MatEditor', 
+             '07_Mesh',
+             '11_FrontISTR', 
+             '12_OpenRadioss', 
+             '21_SU2', 
+             '32_Palace']
 
-dir_paths = ['04_OnlyGUI', '06_MatEditor', '11_FrontISTR', '12_OpenRadioss', '21_SU2', '32_Palace']
+
+
+
 
 def countFiles(dir_path):
     count = 0
