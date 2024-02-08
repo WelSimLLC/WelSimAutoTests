@@ -1,0 +1,1 @@
+This folder is used for the generated files during testing.
