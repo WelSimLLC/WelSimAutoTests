@@ -10,7 +10,7 @@ This repository contains official WelSim regression test cases. You are welcome 
 4. Load the test cases and run.
 
 > [!IMPORTANT]
-> All test cases are synchronized with the latest development version. Please run the test cases using the latest build.
+> All test cases are synchronized with the latest development version. Please run the tests using the latest WELSIM build.
 
 ## Creating tests
 1. Set environment variables WELSIM_DATA_ROOT to the external file folder.
