@@ -9,11 +9,11 @@
   <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_NewDoc" />
   <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;Definition" />
   <wsevent object="mainWindow/menuBar/&amp;Definition" command="activate" arguments="Mat_Import" />
-  <wsevent object="mainWindow/FileOpenDlg" command="filesSelected" arguments="$WELSIM_DATA_ROOT/02_MaterialData/ice_plasticity.wsmat" /> 
+  <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/02_MaterialData/ice_plasticity.wsmat" /> 
 
   <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;Geometry" />
   <wsevent object="mainWindow/menuBar/&amp;Geometry" command="activate" arguments="Fem_ImportPart" />
-  <wsevent object="mainWindow/FileOpenDlg" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/slide_rail_shell.step" />
+  <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/slide_rail_shell.step" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="expand" arguments="0.0.1.0.0.0" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.0.0.0.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="8.1" />
