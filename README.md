@@ -14,3 +14,6 @@ This repository contains official WelSim regression test cases. You are welcome 
 2. Start the WELSIM application, and select the **Record test...** action from the menu **Tools**.
 3. Record operation flow.
 4. Manually revise the test case if necessary. 
+
+> [!IMPORTANT]
+> All test cases are synchronized with the latest development version. Please run the test cases use the latest development version. 
