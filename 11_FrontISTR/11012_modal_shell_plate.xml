@@ -41,23 +41,23 @@
 
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0" />
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="0.1,0" />
-  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="1.1,2.746e7" />
-  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="2.1,1.5253e8" />
-  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="3.1,9.3879e8" />
-  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="4.1,1.1155e9" />
-  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="5.1,1.5081e9" />
-  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="6.1,1.8691e9" />
+  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="1.1,834.01" />
+  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="2.1,1965.6" />
+  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="3.1,4876.5" />
+  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="4.1,5315.7" />
+  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="5.1,6180.7" />
+  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="6.1,6880.7" />
 
   <wsevent object="mainWindow/Fem_ResultDisplacement/Fem_ResultDisplacement" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
 
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="0.1,0" />
-  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="1.1,2.746e7" />
-  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="2.1,1.5253e8" />
-  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="3.1,9.3879e8" />
-  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="4.1,1.1155e9" />
-  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="5.1,1.5081e9" />
-  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="6.1,1.8691e9" />
+  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="1.1,834.01" />
+  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="2.1,1965.6" />
+  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="3.1,4876.5" />
+  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="4.1,5315.7" />
+  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="5.1,6180.7" />
+  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="6.1,6880.7" />
 
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
   <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,1 cm" />
