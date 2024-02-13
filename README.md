@@ -16,4 +16,4 @@ This repository contains official WelSim regression test cases. You are welcome 
 4. Manually revise the test case if necessary. 
 
 > [!IMPORTANT]
-> All test cases are synchronized with the latest development version. Please run the test cases using the latest development version. 
+> All test cases are synchronized with the latest development version. Please run the test cases using the latest development version of WELSIM. 
