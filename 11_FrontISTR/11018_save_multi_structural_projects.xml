@@ -227,7 +227,6 @@
   <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Std_SaveAs" />
   <wsevent object="mainWindow/QFileDialog/fileNameEdit" command="set_string" arguments="$WELSIM_DATA_ROOT/97_Exported/11018/p5.wsdb" />
   <wsevent object="mainWindow/QFileDialog/buttonBox/1QPushButton0" command="activate" arguments="" />
-  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_CloseAllDocs" />
 
 
 </wsevents>
