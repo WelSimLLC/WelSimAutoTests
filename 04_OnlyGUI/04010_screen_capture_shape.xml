@@ -22,10 +22,10 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/11Length_z" command="set_double" arguments="2" />
 
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/BarWidget/PinButton" command="set_boolean" arguments="true" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/controllerWidget/AxesWidget" command="mousePress" arguments="1,1,0,50,50" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/controllerWidget/AxesWidget" command="mouseRelease" arguments="1,0,0,50,50" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/AxesWidget" command="mousePress" arguments="1,1,0,50,50" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/AxesWidget" command="mouseRelease" arguments="1,0,0,50,50" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/BarWidget/PinButton" command="set_boolean" arguments="false" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/controllerWidget/actionCenter" command="activate" arguments="" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/actionCenter" command="activate" arguments="" />
 
   <wsevent object="mainWindow/Std_ViewScreenCapture/Std_ViewScreenCapture" command="activate" arguments="" />
   <wsevent object="mainWindow/QFileDialog/fileNameEdit" command="set_string" arguments="$WELSIM_DATA_ROOT/97_Exported/04010/welsim_screen.png" />
