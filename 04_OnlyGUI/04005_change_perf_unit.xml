@@ -8,4 +8,6 @@
   <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
   <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_NewDoc" />
 
+  <wsevent object="wsApp" command="pause" arguments="500" />
+
 </wsevents>
