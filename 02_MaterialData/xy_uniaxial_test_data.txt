@@ -1,0 +1,15 @@
+### Material table data exported from WELSIM
+### 2020-08-17 Monday 16:57                       
+                  Strain                  Stress                       
+                       -                       -                       
+             Independent               Dependent                       
+                       0                       0                       
+                    0.02                    0.08                       
+                    0.06                    0.12                       
+                    0.28                     0.3                       
+                    0.47                     0.4                       
+                    0.67                    0.57                       
+                    0.77                     0.7                       
+                    0.82                    0.78                       
+                    0.85                     0.9                       
+                    0.89                       1                       

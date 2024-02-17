@@ -28,9 +28,7 @@
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/actionCenter" command="activate" arguments="" />
 
   <wsevent object="mainWindow/Std_ViewScreenCapture/Std_ViewScreenCapture" command="activate" arguments="" />
-  <wsevent object="mainWindow/QFileDialog/fileNameEdit" command="set_string" arguments="$WELSIM_DATA_ROOT/97_Exported/04010/welsim_screen.png" />
-  <wsevent object="mainWindow/QFileDialog/fileTypeCombo" command="activated" arguments="All Files (*)" />
-  <wsevent object="mainWindow/QFileDialog/buttonBox/1QPushButton0" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/04010/welsim_screen.png" />
 
   <!-- <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.0.0.0.0" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.1.0.0.0.0.0" />
