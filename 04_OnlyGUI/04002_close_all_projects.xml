@@ -2,7 +2,9 @@
 <wsevents>
   <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
   <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_NewDoc" />
+
   <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
   <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_CloseAllDocs" />
+  
   <wsevent object="mainWindow/1QMessageBox0/qt_msgbox_buttonbox/1QPushButton1" command="activate" arguments="" />
 </wsevents>
