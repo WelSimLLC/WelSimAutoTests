@@ -13,6 +13,9 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/4AnalysisType" command="activated" arguments="Static" />
 
+  <wsevent object="mainWindow/Std_SaveAs/Std_SaveAs" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/11018/p1.wsdb" />
+
   <wsevent object="mainWindow/Fem_ImportPart/Fem_ImportPart" command="activate" arguments="" />
   <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/box_goup/box_x20_y1_z2.step" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.0.0.0.0" />
@@ -41,10 +44,8 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
 
-  <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
-  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Std_SaveAs" />
-  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/11018/p1.wsdb" />
-  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_CloseAllDocs" />
+  <wsevent object="mainWindow/Std_Save/Std_Save" command="activate" arguments="" />
+  <wsevent object="mainWindow/Fem_CloseAllDocs/Fem_CloseAllDocs" command="activate" arguments="" />
   <wsevent object="wsApp" command="pause" arguments="500" />
 
 
@@ -54,6 +55,9 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/4AnalysisType" command="activated" arguments="Static" />
+
+  <wsevent object="mainWindow/Std_SaveAs/Std_SaveAs" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/11018/p2.wsdb" />
 
   <wsevent object="mainWindow/Fem_ImportPart/Fem_ImportPart" command="activate" arguments="" />
   <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/box_goup/box_x19_y1_z2.step" />
@@ -83,12 +87,9 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
 
-  <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
-  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Std_SaveAs" />
-  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/11018/p2.wsdb" />
-  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_CloseAllDocs" />
+  <wsevent object="mainWindow/Std_Save/Std_Save" command="activate" arguments="" />
+  <wsevent object="mainWindow/Fem_CloseAllDocs/Fem_CloseAllDocs" command="activate" arguments="" />
   <wsevent object="wsApp" command="pause" arguments="500" />
-
 
 
 
@@ -97,6 +98,9 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/4AnalysisType" command="activated" arguments="Static" />
+
+  <wsevent object="mainWindow/Std_SaveAs/Std_SaveAs" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/11018/p3.wsdb" />
 
   <wsevent object="mainWindow/Fem_ImportPart/Fem_ImportPart" command="activate" arguments="" />
   <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/box_goup/box_x18_y1_z2.step" />
@@ -126,10 +130,8 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
 
-  <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
-  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Std_SaveAs" />
-  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/11018/p3.wsdb" />
-  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_CloseAllDocs" />
+  <wsevent object="mainWindow/Std_Save/Std_Save" command="activate" arguments="" />
+  <wsevent object="mainWindow/Fem_CloseAllDocs/Fem_CloseAllDocs" command="activate" arguments="" />
   <wsevent object="wsApp" command="pause" arguments="500" />
 
 
@@ -141,6 +143,9 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/4AnalysisType" command="activated" arguments="Static" />
+
+  <wsevent object="mainWindow/Std_SaveAs/Std_SaveAs" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/11018/p4.wsdb" />
 
   <wsevent object="mainWindow/Fem_ImportPart/Fem_ImportPart" command="activate" arguments="" />
   <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/box_goup/box_x17_y1_z2.step" />
@@ -170,10 +175,8 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
 
-  <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
-  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Std_SaveAs" />
-  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/11018/p4.wsdb" />
-  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_CloseAllDocs" />
+  <wsevent object="mainWindow/Std_Save/Std_Save" command="activate" arguments="" />
+  <wsevent object="mainWindow/Fem_CloseAllDocs/Fem_CloseAllDocs" command="activate" arguments="" />
   <wsevent object="wsApp" command="pause" arguments="500" />
 
 
@@ -185,6 +188,9 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/4AnalysisType" command="activated" arguments="Static" />
+
+  <wsevent object="mainWindow/Std_SaveAs/Std_SaveAs" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/11018/p5.wsdb" />
 
   <wsevent object="mainWindow/Fem_ImportPart/Fem_ImportPart" command="activate" arguments="" />
   <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/box_goup/box_x16_y1_z2.step" />
@@ -212,11 +218,8 @@
   <wsevent object="mainWindow/Fem_Solve/Fem_Solve" command="activate" arguments="" />
   <wsevent object="mainWindow/Fem_ResultStress/Fem_ResultStress" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
-  <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
+  <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" /> 
 
-  <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
-  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Std_SaveAs" />
-  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/11018/p5.wsdb" />
-
-
+  <wsevent object="mainWindow/Std_Save/Std_Save" command="activate" arguments="" />
+  
 </wsevents>
