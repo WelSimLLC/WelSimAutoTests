@@ -24,9 +24,7 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.0.0.0.0" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.1.0.0.0.0.0" />
   <wsevent object="wsContextMenu" command="activate" arguments="Fem_ExportPart" />
-  <wsevent object="mainWindow/QFileDialog/fileNameEdit" command="set_string" arguments="$WELSIM_DATA_ROOT/97_Exported/04009/output_shape1.step" />
-  <wsevent object="mainWindow/QFileDialog/fileTypeCombo" command="activated" arguments="All Files (*)" />
-  <wsevent object="mainWindow/QFileDialog/buttonBox/1QPushButton0" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/04009/output_shape1.step" />
 
   <wscheck object="wsApp" property="hasFile" arguments="$WELSIM_DATA_ROOT/97_Exported/04009/output_shape1.step" />
 

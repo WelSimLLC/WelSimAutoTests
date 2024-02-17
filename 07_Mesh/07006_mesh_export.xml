@@ -13,39 +13,27 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.1.0" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.1.0.1.0" />
   <wsevent object="wsContextMenu" command="activate" arguments="Fem_ExportFEMesh" />
-  <wsevent object="mainWindow/QFileDialog/fileNameEdit" command="set_string" arguments="$WELSIM_DATA_ROOT/97_Exported/07006/output_mesh.wsmsh" />
-  <wsevent object="mainWindow/QFileDialog/fileTypeCombo" command="activated" arguments="All Files (*)" />
-  <wsevent object="mainWindow/QFileDialog/buttonBox/1QPushButton0" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/07006/output_mesh.wsmsh" />
 
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.1.0.1.0" />
   <wsevent object="wsContextMenu" command="activate" arguments="Fem_ExportFEMesh" />
-  <wsevent object="mainWindow/QFileDialog/fileNameEdit" command="set_string" arguments="$WELSIM_DATA_ROOT/97_Exported/07006/output_mesh.inp" />
-  <wsevent object="mainWindow/QFileDialog/fileTypeCombo" command="activated" arguments="All Files (*)" />
-  <wsevent object="mainWindow/QFileDialog/buttonBox/1QPushButton0" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/07006/output_mesh.inp" />
 
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.1.0.1.0" />
   <wsevent object="wsContextMenu" command="activate" arguments="Fem_ExportFEMesh" />
-  <wsevent object="mainWindow/QFileDialog/fileNameEdit" command="set_string" arguments="$WELSIM_DATA_ROOT/97_Exported/07006/output_mesh.msh" />
-  <wsevent object="mainWindow/QFileDialog/fileTypeCombo" command="activated" arguments="All Files (*)" />
-  <wsevent object="mainWindow/QFileDialog/buttonBox/1QPushButton0" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/07006/output_mesh.msh" />
 
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.1.0.1.0" />
   <wsevent object="wsContextMenu" command="activate" arguments="Fem_ExportFEMesh" />
-  <wsevent object="mainWindow/QFileDialog/fileNameEdit" command="set_string" arguments="$WELSIM_DATA_ROOT/97_Exported/07006/output_mesh.mmesh" />
-  <wsevent object="mainWindow/QFileDialog/fileTypeCombo" command="activated" arguments="All Files (*)" />
-  <wsevent object="mainWindow/QFileDialog/buttonBox/1QPushButton0" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/07006/output_mesh.mmesh" />
 
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.1.0.1.0" />
   <wsevent object="wsContextMenu" command="activate" arguments="Fem_ExportFEMesh" />
-  <wsevent object="mainWindow/QFileDialog/fileNameEdit" command="set_string" arguments="$WELSIM_DATA_ROOT/97_Exported/07006/output_mesh.bdf" />
-  <wsevent object="mainWindow/QFileDialog/fileTypeCombo" command="activated" arguments="All Files (*)" />
-  <wsevent object="mainWindow/QFileDialog/buttonBox/1QPushButton0" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/07006/output_mesh.bdf" />
 
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.1.0.1.0" />
   <wsevent object="wsContextMenu" command="activate" arguments="Fem_ExportFEMesh" />
-  <wsevent object="mainWindow/QFileDialog/fileNameEdit" command="set_string" arguments="$WELSIM_DATA_ROOT/97_Exported/07006/output_mesh.unv" />
-  <wsevent object="mainWindow/QFileDialog/fileTypeCombo" command="activated" arguments="All Files (*)" />
-  <wsevent object="mainWindow/QFileDialog/buttonBox/1QPushButton0" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/07006/output_mesh.unv" />
 
   <!-- <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.1.0.1.0" />
   <wsevent object="wsContextMenu" command="activate" arguments="Fem_ExportFEMesh" />

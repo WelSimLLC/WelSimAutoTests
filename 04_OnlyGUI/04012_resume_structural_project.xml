@@ -4,13 +4,7 @@
   <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Std_OpenWSDB" />
   <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/03_WelSimData/03001_static_structural_solid_three_projects.wsdb" />
 
-
-
-
-
-
-
-
+  <wsevent object="wsApp" command="pause" arguments="1000" />
 
 
 </wsevents>
