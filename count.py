@@ -3,6 +3,7 @@ import os
 dir_paths = ['04_OnlyGUI', 
              '06_MatEditor', 
              '07_Mesh',
+             '08_Result',
              '11_FrontISTR', 
              '12_OpenRadioss', 
              '21_SU2', 
