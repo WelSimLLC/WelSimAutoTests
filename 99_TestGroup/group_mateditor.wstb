@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testbook>
-    <tests title="GUI">
+    <tests title="MatEditor">
         <test>06_MatEditor\06001_test_data_uniaxial.xml</test>
         <test>06_MatEditor\06002_test_data_biaxial.xml</test>
         <test>06_MatEditor\06003_test_data_shear.xml</test>
@@ -10,6 +10,12 @@
         <test>06_MatEditor\06007_test_data_shear_viscoelastic.xml</test>
         <test>06_MatEditor\06008_test_data_bulk_viscoelastic.xml</test>
         <test>06_MatEditor\06009_test_data_rmb_context_menu.xml</test>
+        <test>06_MatEditor\06010_uniaxial_test_data_import_from_txt.xml</test>
+        <test>06_MatEditor\06011_uniaxial_test_data_export_to_txt.xml</test>
+        <test>06_MatEditor\06012_uniaxial_test_data_import_from_xlsx.xml</test>
+        <test>06_MatEditor\06013_uniaxial_test_data_export_to_xlsx.xml</test>
+        <test>06_MatEditor\06014_uniaxial_test_data_import_from_csv.xml</test>
+        <test>06_MatEditor\06015_uniaxial_test_data_export_to_csv.xml</test>
         <test>06_MatEditor\06101_curvefit_neohookean.xml</test>
         <test>06_MatEditor\06102_curvefit_mr2.xml</test>
         <test>06_MatEditor\06103_curvefit_mr3.xml</test>
