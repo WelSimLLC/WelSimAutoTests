@@ -40,7 +40,7 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13ForceZConstant/quantitySpinBox" command="set_double" arguments="1000" />
 
   <wsevent object="mainWindow/Fem_Solve/Fem_Solve" command="activate" arguments="" />
-  <wsevent object="mainWindow/Fem_ResultStress/Fem_ResultStress" command="activate" arguments="" />
+  <wsevent object="mainWindow/Fem_RstStress/Fem_RstStress" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
 
@@ -83,7 +83,7 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13ForceZConstant/quantitySpinBox" command="set_double" arguments="1000" />
 
   <wsevent object="mainWindow/Fem_Solve/Fem_Solve" command="activate" arguments="" />
-  <wsevent object="mainWindow/Fem_ResultStress/Fem_ResultStress" command="activate" arguments="" />
+  <wsevent object="mainWindow/Fem_RstStress/Fem_RstStress" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
 
@@ -126,7 +126,7 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13ForceZConstant/quantitySpinBox" command="set_double" arguments="1000" />
 
   <wsevent object="mainWindow/Fem_Solve/Fem_Solve" command="activate" arguments="" />
-  <wsevent object="mainWindow/Fem_ResultStress/Fem_ResultStress" command="activate" arguments="" />
+  <wsevent object="mainWindow/Fem_RstStress/Fem_RstStress" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
 
@@ -171,7 +171,7 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13ForceZConstant/quantitySpinBox" command="set_double" arguments="1000" />
 
   <wsevent object="mainWindow/Fem_Solve/Fem_Solve" command="activate" arguments="" />
-  <wsevent object="mainWindow/Fem_ResultStress/Fem_ResultStress" command="activate" arguments="" />
+  <wsevent object="mainWindow/Fem_RstStress/Fem_RstStress" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
 
@@ -216,7 +216,7 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13ForceZConstant/quantitySpinBox" command="set_double" arguments="1000" />
 
   <wsevent object="mainWindow/Fem_Solve/Fem_Solve" command="activate" arguments="" />
-  <wsevent object="mainWindow/Fem_ResultStress/Fem_ResultStress" command="activate" arguments="" />
+  <wsevent object="mainWindow/Fem_RstStress/Fem_RstStress" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" /> 
 

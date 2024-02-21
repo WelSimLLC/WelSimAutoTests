@@ -43,7 +43,7 @@
 
   <wsevent object="mainWindow/Fem_Solve/Fem_Solve" command="activate" arguments="" />
 
-  <wsevent object="mainWindow/Fem_ResultDisplacement/Fem_ResultDisplacement" command="activate" arguments="" />
+  <wsevent object="mainWindow/Fem_RstDisplacement/Fem_RstDisplacement" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
   <wsevent object="mainWindow/Std_ViewScreenCapture/Std_ViewScreenCapture" command="activate" arguments="" />
@@ -51,7 +51,7 @@
   <wsevent object="mainWindow/QFileDialog/fileTypeCombo" command="activated" arguments="All Files (*)" />
   <wsevent object="mainWindow/QFileDialog/buttonBox/1QPushButton0" command="activate" arguments="" />
 
-  <wsevent object="mainWindow/Fem_ResultStress/Fem_ResultStress" command="activate" arguments="" />
+  <wsevent object="mainWindow/Fem_RstStress/Fem_RstStress" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.1.0" />
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
   <wsevent object="mainWindow/Std_ViewScreenCapture/Std_ViewScreenCapture" command="activate" arguments="" />
