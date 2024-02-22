@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<wsevents>
+  <wsevent object="mainWindow/Std_DlgUserPref/Std_DlgUserPref" command="activate" arguments="" />
+  <wsevent object="mainWindow/PrefDlg/pagesWidget/general/scrollArea/qt_scrollarea_viewport/contents/tabWidget/qt_tabwidget_tabbar" command="set_tab_with_text" arguments="Units" />
+  <wsevent object="mainWindow/PrefDlg/pagesWidget/general/scrollArea/qt_scrollarea_viewport/contents/tabWidget/qt_tabwidget_stackedwidget/tabUnits/groupBoxUnits/radioUnitsMKS" command="set_boolean" arguments="true" />
+  <wsevent object="mainWindow/PrefDlg/btnOK" command="activate" arguments="" />
+
+  <wsevent object="mainWindow/Fem_NewDoc/Fem_NewDoc" command="activate" arguments="" />
+  <wsevent object="mainWindow/Mat_AddMaterial/Mat_AddMaterial" command="activate" arguments="" />
+
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.0.0.2.0" />
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.0.0.2.0" />
+  <wsevent object="wsContextMenu" command="activate" arguments="Rename" />
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="editAccepted" arguments="0.0.0.0.2.0,Steel_Plastic" />
+
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.0.0.2.0" />
+  <wsevent object="wsContextMenu" command="activate" arguments="Mat_Edit" />
+  <wsevent object="mainWindow/wsMdiArea/wsTabBar" command="set_tab_with_text" arguments="Steel_Plastic" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabLibrary/toolBoxLibrary/1QScrollArea0/qt_scrollarea_viewport/pg_lib_general/lw_lib_general" command="setCurrent" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabLibrary/btnAddMat" command="activate" arguments="" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.0" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_tabbar" command="set_tab_with_text" arguments="Build" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/qt_toolbox_toolboxbutton" command="activate" arguments="" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="4" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_plastic/lw_build_plastic" command="setCheckState" arguments="1.0,2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/11midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="3.0" />
+
+
+  <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="edit" arguments="0.0" />
+  <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="editAccepted" arguments="0.0,0" />
+  <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="edit" arguments="0.1" />
+  <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="editAccepted" arguments="0.1,0" />
+
+  <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="edit" arguments="1.0" />
+  <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="editAccepted" arguments="1.0,0.0013" />
+  <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="edit" arguments="1.1" />
+  <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="editAccepted" arguments="1.1,265" />
+
+  <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="edit" arguments="2.0" />
+  <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="editAccepted" arguments="2.0,0.2551" />
+  <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="edit" arguments="2.1" />
+  <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="editAccepted" arguments="2.1,461" />
+
+  <wsevent object="mainWindow/wsMdiArea/wsTabBar/1CloseButton0" command="activate" arguments="" />
+
+
+  <wsevent object="mainWindow/Fem_ImportPart/Fem_ImportPart" command="activate" arguments="" />
+  <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom21.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom31.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom41.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom42.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom43.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom44.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom45.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom46.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom47.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom48.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom49.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom50.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom51.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom52.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom53.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom54.step;;$WELSIM_DATA_ROOT/01_ShapeData/assembly_board/Geom55.step" />
+
+
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.0.0.0.0" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="8.1" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/12Material" command="activated" arguments="Steel_Plastic (ID:11)" />
+
+
+  <!-- <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.1.0.0.0" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="4.1" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/7MaximumSize" command="set_double" arguments="0.1" />
+  <wsevent object="mainWindow/Fem_MeshAll/Fem_MeshAll" command="activate" arguments="" />
+
+
+  <wsevent object="mainWindow/Fem_BCFixed/Fem_BCFixed" command="activate" arguments="" />
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.2.0.1.0" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/29Geometry/29SelBtnOK" command="set_selection" arguments="Obj21_Face89;;Obj21_Face92;;Obj21_Face85;;Obj21_Face93;;Obj21_Face86;;Obj21_Face90;;Obj21_Face84;;Obj21_Face91;;Obj21_Face106;;Obj21_Face102;;Obj21_Face101;;Obj21_Face95" />
+
+  <wsevent object="mainWindow/Fem_BCForce/Fem_BCForce" command="activate" arguments="" />
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.2.0.2.0" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/30Geometry/30SelBtnOK" command="set_selection" arguments="Obj50_Face3;;Obj51_Face3;;Obj52_Face3;;Obj41_Face3;;Obj43_Face3;;Obj44_Face3;;Obj45_Face3;;Obj46_Face3" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="9.1" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/30ForceYConstant/quantitySpinBox" command="set_double" arguments="5000" />
+
+
+  <wsevent object="mainWindow/Fem_Solve/Fem_Solve" command="activate" arguments="" />
+
+  <wsevent object="mainWindow/Fem_RstDisplacement/Fem_RstDisplacement" command="activate" arguments="" />
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.1.0" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="4.1" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15Type" command="activated" arguments="Deformation X" />
+  <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
+   <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,1.486e-7" />
+  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,0" /> 
+
+  <wsevent object="mainWindow/Fem_RstStress/Fem_RstStress" command="activate" arguments="" />
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.2.0" />
+  <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
+  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,1.16" />
+  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,0.558" />
+
+  <wsevent object="mainWindow/Fem_RstStress/Fem_RstStress" command="activate" arguments="" />
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.2.0" />
+  <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
+   <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,1.16" />
+  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,0.558" /> --> 
+
+
+</wsevents>

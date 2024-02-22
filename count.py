@@ -28,3 +28,6 @@ for dir in dir_paths:
     sum += countFiles(dir)
 print('Total number of files: ', sum)
 
+
+
+
