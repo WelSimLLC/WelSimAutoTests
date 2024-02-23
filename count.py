@@ -1,6 +1,6 @@
 import os
 
-dir_paths = ['04_OnlyGUI', 
+dir_paths = ['04_GUI', 
              '06_MatEditor', 
              '07_Mesh',
              '08_Result',

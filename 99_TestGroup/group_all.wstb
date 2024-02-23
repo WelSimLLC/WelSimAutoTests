@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testbook>
     <tests title="GUI">
-        <test>04_OnlyGUI/04001_import_a_shape.xml</test>
-        <test>04_OnlyGUI/04002_close_all_projects.xml</test>
-        <test>04_OnlyGUI/04003_select_bc_face.xml</test>
-        <test>04_OnlyGUI/04004_select_bc_faces.xml</test>
-        <test>04_OnlyGUI/04005_change_perf_unit.xml</test>
-        <test>04_OnlyGUI/04006_create_delete_mat_obj.xml</test>
-        <test>04_OnlyGUI/04007_clean_up_all.xml</test>
-        <test>04_OnlyGUI/04008_set_bc_displacement.xml</test>
-        <test>04_OnlyGUI/04009_save_shape_box.xml</test>
-        <test>04_OnlyGUI/04010_screen_capture_shape.xml</test>
-        <test>04_OnlyGUI/04011_save_shape_boxes.xml</test>
-        <test>04_OnlyGUI/04012_resume_structural_project.xml</test>
-        <test>04_OnlyGUI/04013_pause_test_3000ms.xml</test>
-        <test>04_OnlyGUI/04014_check_project_exist.xml</test>
-        <test>04_OnlyGUI/04015_regression_comment.xml</test>
+        <test>04_GUI/04001_import_a_shape.xml</test>
+        <test>04_GUI/04002_close_all_projects.xml</test>
+        <test>04_GUI/04003_select_bc_face.xml</test>
+        <test>04_GUI/04004_select_bc_faces.xml</test>
+        <test>04_GUI/04005_change_perf_unit.xml</test>
+        <test>04_GUI/04006_create_delete_mat_obj.xml</test>
+        <test>04_GUI/04007_clean_up_all.xml</test>
+        <test>04_GUI/04008_set_bc_displacement.xml</test>
+        <test>04_GUI/04009_save_shape_box.xml</test>
+        <test>04_GUI/04010_screen_capture_shape.xml</test>
+        <test>04_GUI/04011_save_shape_boxes.xml</test>
+        <test>04_GUI/04012_resume_structural_project.xml</test>
+        <test>04_GUI/04013_pause_test_3000ms.xml</test>
+        <test>04_GUI/04014_check_project_exist.xml</test>
+        <test>04_GUI/04015_regression_comment.xml</test>
     </tests>
     <tests title="MatEditor">
         <test>06_MatEditor\06001_test_data_uniaxial.xml</test>
