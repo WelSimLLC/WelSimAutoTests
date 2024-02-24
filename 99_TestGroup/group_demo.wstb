@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testbook>
     <tests title="GUI">
-        <test>04_OnlyGUI/04001_import_a_shape.xml</test>
-        <test>04_OnlyGUI/04002_close_all_projects.xml</test>
-        <test>04_OnlyGUI/04003_select_bc_face.xml</test>
-        <test>04_OnlyGUI/04004_select_bc_faces.xml</test>
-        <test>04_OnlyGUI/04005_change_perf_unit.xml</test>
-        <test>04_OnlyGUI/04006_create_delete_mat_obj.xml</test>
-        <test>04_OnlyGUI/04007_clean_up_all.xml</test>
+        <test>04_GUI/04001_import_a_shape.xml</test>
+        <test>04_GUI/04002_close_all_projects.xml</test>
+        <test>04_GUI/04003_select_bc_face.xml</test>
+        <test>04_GUI/04004_select_bc_faces.xml</test>
+        <test>04_GUI/04005_change_perf_unit.xml</test>
+        <test>04_GUI/04006_create_delete_mat_obj.xml</test>
+        <test>04_GUI/04007_clean_up_all.xml</test>
     </tests>
     <tests title="FrontISTR">
         <test>11_FrontISTR/11001_structural_solid_pressure_box.xml</test>
