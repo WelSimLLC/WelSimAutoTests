@@ -22,14 +22,15 @@ This repository contains official WelSim regression test cases. You are welcome 
 
 ## Statics
 | **Folder** | **Number of Tests** |
-| 04_GUI | 21 |
-| 06_MatEditor | 150 |
-| 07_Mesh | 8 |
+|------------|---------------------|
+| 04_GUI | 22 |
+| 06_MatEditor | 153 |
+| 07_Mesh | 10 |
 | 08_Result | 1 |
 | 09_BeamSection | 8 |
-| 11_FrontISTR | 27 |
+| 11_FrontISTR | 38 |
 | 12_OpenRadioss | 2 |
 | 21_SU2 | 2 |
 | 32_Palace | 1 |
-| **Total** | **220** |
+| **Total** | **237** |
 
