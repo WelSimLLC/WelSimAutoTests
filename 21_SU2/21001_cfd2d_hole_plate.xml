@@ -20,7 +20,7 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="4.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/4Dimension" command="activated" arguments="2" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/4Physics Type" command="activated" arguments="Fluids" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/4PhysicsType" command="activated" arguments="Fluids" />
 
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.0.0.0.0" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setSelection" arguments="0.0.1.0.0.0.0.0,0.0.1.0.0.0.0.0" />
@@ -54,7 +54,7 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setSelection" arguments="0.0.1.0.2.0.2.0,0.0.1.0.2.0.2.0" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCheckState" arguments="0.0.1.0.2.0.2.0,0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13Geometry/13elBtnOK" command="set_selection" arguments="Obj11_Edge4;;Obj11_Edge1;;Obj11_Edge2;;Obj11_Edge3" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13Geometry/13SelBtnOK" command="set_selection" arguments="Obj11_Edge4;;Obj11_Edge1;;Obj11_Edge2;;Obj11_Edge3" />
 
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.2.0.3.0" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setSelection" arguments="0.0.1.0.2.0.3.0,0.0.1.0.2.0.3.0" />
@@ -63,7 +63,7 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/14Geometry/14SelBtnOK" command="set_selection" arguments="Obj11_Body1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="7.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/14Velocity X" command="set_double" arguments="-1.55" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/14VelocityX" command="set_double" arguments="-1.55" />
 
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.2.0.0.0" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setSelection" arguments="0.0.1.0.2.0.0.0,0.0.1.0.2.0.0.0" />
@@ -71,7 +71,7 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="10.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/9Solver" command="activated" arguments="SU2" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="28.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/9Fluid Model" command="activated" arguments="Peng-Robinson Gas" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/9FluidModel" command="activated" arguments="Peng-Robinson Gas" />
 
   <wsevent object="mainWindow/Fem_Solve/Fem_Solve" command="activate" arguments="" />
 
