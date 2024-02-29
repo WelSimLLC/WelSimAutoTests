@@ -20,7 +20,7 @@ This repository contains official WelSim regression test cases. You are welcome 
 
 
 
-## Statics
+## Statistics
 | **Folder** | **Number of Tests** |
 |------------|---------------------|
 | 04_GUI | 22 |
