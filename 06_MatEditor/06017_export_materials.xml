@@ -47,6 +47,17 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.0.0" />
   <wsevent object="wsContextMenu" command="activate" arguments="Mat_Export" />
   <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/06017/mat_welsim.xml" />
+  
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.0.0" />
+  <wsevent object="wsContextMenu" command="activate" arguments="Mat_Export" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/06017/mat_welsim.rad" />
+  
+  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.0.0" />
+  <wsevent object="wsContextMenu" command="activate" arguments="Mat_Export" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/06017/mat_welsim.inp" />
+  
+  
   <wscheck object="wsApp" property="hasFile" arguments="$WELSIM_DATA_ROOT/97_Exported/06017/mat_welsim.xml" />  
-
+  <wscheck object="wsApp" property="hasFile" arguments="$WELSIM_DATA_ROOT/97_Exported/06017/mat_welsim.rad" />  
+  <wscheck object="wsApp" property="hasFile" arguments="$WELSIM_DATA_ROOT/97_Exported/06017/mat_welsim.inp" />  
 </wsevents>

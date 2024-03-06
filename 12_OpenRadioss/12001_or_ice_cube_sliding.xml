@@ -11,8 +11,7 @@
   <wsevent object="mainWindow/menuBar/&amp;Definition" command="activate" arguments="Mat_Import" />
   <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/02_MaterialData/ice_plasticity.wsmat" /> 
 
-  <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;Geometry" />
-  <wsevent object="mainWindow/menuBar/&amp;Geometry" command="activate" arguments="Fem_ImportPart" />
+  <wsevent object="mainWindow/Fem_ImportPart/Fem_ImportPart" command="activate" arguments="" />
   <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/slide_rail_shell.step" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="expand" arguments="0.0.1.0.0.0" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.0.0.0.0" />
