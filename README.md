@@ -30,8 +30,8 @@ This repository contains official WelSim regression test cases. You are welcome 
 | 09_BeamSection | 8 |
 | 11_FrontISTR | 38 |
 | 12_OpenRadioss | 6 |
-| 13_CalculiX | 0 |
+| 13_CalculiX | 1 |
 | 21_SU2 | 2 |
 | 32_Palace | 1 |
-| **Total** | **248** |
+| **Total** | **249** |
 
