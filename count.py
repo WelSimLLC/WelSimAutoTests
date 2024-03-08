@@ -7,11 +7,9 @@ dir_paths = ['04_GUI',
              '09_BeamSection',
              '11_FrontISTR', 
              '12_OpenRadioss', 
+             '13_CalculiX', 
              '21_SU2', 
              '32_Palace']
-
-
-
 
 
 def countFiles(dir_path):
