@@ -8,6 +8,7 @@ dir_paths = ['04_GUI',
              '11_FrontISTR', 
              '12_OpenRadioss', 
              '13_CalculiX', 
+             '14_Elmer',
              '21_SU2', 
              '32_Palace']
 
