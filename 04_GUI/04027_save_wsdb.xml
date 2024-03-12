@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<wsevents>
+  <wsevent object="wsApp" command="cleanFolder" arguments="$WELSIM_DATA_ROOT/97_Exported/04027" />
+
+  <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
+  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_NewDoc" />
+  <wsevent object="mainWindow/Shape_Box/Shape_Box" command="activate" arguments="" />
+
+  <wsevent object="mainWindow/Std_SaveAs/Std_SaveAs" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/04027/p1.wsdb" />
+
+  <wsevent object="mainWindow/Std_SaveAs/Std_SaveAs" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/04027/p2" />
+  
+  <wscheck object="wsApp" property="hasFile" arguments="$WELSIM_DATA_ROOT/97_Exported/04027/p1.wsdb" />
+  <wscheck object="wsApp" property="hasFile" arguments="$WELSIM_DATA_ROOT/97_Exported/04027/p2.wsdb" />
+
+</wsevents>
