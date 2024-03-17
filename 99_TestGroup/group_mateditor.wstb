@@ -16,6 +16,9 @@
         <test>06_MatEditor\06013_uniaxial_test_data_export_to_xlsx.xml</test>
         <test>06_MatEditor\06014_uniaxial_test_data_import_from_csv.xml</test>
         <test>06_MatEditor\06015_uniaxial_test_data_export_to_csv.xml</test>
+        <test>06_MatEditor\06016_rename_material_object.xml</test>
+        <test>06_MatEditor\06017_export_materials.xml</test>
+        <test>06_MatEditor\06018_create_multiple_materials.xml</test>
         <test>06_MatEditor\06101_curvefit_neohookean.xml</test>
         <test>06_MatEditor\06102_curvefit_mr2.xml</test>
         <test>06_MatEditor\06103_curvefit_mr3.xml</test>

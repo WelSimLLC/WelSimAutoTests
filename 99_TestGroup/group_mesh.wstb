@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testbook>
+    <tests title="Mesh">
+        <test>07_Mesh\07001_box_solid_tet4.xml</test>
+        <test>07_Mesh\07002_box_solid_tet10.xml</test>
+        <test>07_Mesh\07003_stl_mesh.xml</test>
+        <test>07_Mesh\07004_stl_mesh_tet10.xml</test>
+        <test>07_Mesh\07005_stl_mesh_horseshoe.xml</test>
+        <test>07_Mesh\07006_mesh_export.xml</test>
+        <test>07_Mesh\07007_screen_capture_mesh.xml</test>
+        <test>07_Mesh\07008_box_mesh_checker.xml</test>
+        <test>07_Mesh\07009_mesh_object_solid.xml</test>
+        <test>07_Mesh\07010_mesh_object_shell.xml</test>
+        <test>07_Mesh\07011_mesh_complex_ring.xml</test>
+        <test>07_Mesh\07012_mesh_imported_gds.xml</test>
+    </tests>
+</testbook>
+
+

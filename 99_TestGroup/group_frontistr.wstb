@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testbook>
+    <tests title="FrontISTR">
+        <test>11_FrontISTR\11001_structural_solid_pressure_box.xml</test>
+        <test>11_FrontISTR\11002_static_solid_pressure_bar.xml</test>
+        <test>11_FrontISTR\11003_modal_solid_plate.xml</test>
+        <test>11_FrontISTR\11004_modal_solid_plate_tet10.xml</test>
+        <test>11_FrontISTR\11005_static_solid_contact_two_boxes.xml</test>
+        <test>11_FrontISTR\11006_static_solid_body_force.xml</test>
+        <test>11_FrontISTR\11007_static_solid_pressure_bar_tet10.xml</test>
+        <test>11_FrontISTR\11008_static_solid_pressure_bar_vertex_bc.xml</test>
+        <test>11_FrontISTR\11009_static_shell_force.xml</test>
+        <test>11_FrontISTR\11010_static_shell_force_vertex.xml</test>
+        <test>11_FrontISTR\11011_modal_solid_rotor3d.xml</test>
+        <test>11_FrontISTR\11012_modal_shell_plate.xml</test>
+        <test>11_FrontISTR\11013_modal_solid_multibody_hsec.xml</test>
+        <test>11_FrontISTR\11014_static_solid_multibody_hsec.xml</test>
+        <test>11_FrontISTR\11015_static_solid_mesh_object_hsec.xml</test>
+        <test>11_FrontISTR\11016_static_solid_batch_mode.xml</test>
+        <test>11_FrontISTR\11017_static_solid_multi_projects.xml</test>
+        <test>11_FrontISTR\11018_save_multi_structural_projects.xml</test>
+        <test>11_FrontISTR\11019_static_solid_force_on_edge.xml</test>
+        <test>11_FrontISTR\11020_static_solid_force_on_vertex.xml</test>
+        <test>11_FrontISTR\11021_static_solid_force_on_surface_mN.xml</test>
+        <test>11_FrontISTR\11022_static_solid_force_on_surface_dynecm.xml</test>
+        <test>11_FrontISTR\11023_static_solid_force_on_surface_mmN.xml</test>
+        <test>11_FrontISTR\11024_static_solid_force_on_surface_umuN.xml</test>
+        <test>11_FrontISTR\11025_static_solid_force_on_surface_ft.xml</test>
+        <test>11_FrontISTR\11026_static_solid_force_on_surface_in.xml</test>
+        <test>11_FrontISTR\11027_static_thermal_shell.xml</test>
+        <test>11_FrontISTR\11028_static_solid_assembly.xml</test>
+        <test>11_FrontISTR\11029_static_solid_bc_spring.xml</test>
+        <test>11_FrontISTR\11030_transient_solid_force.xml</test>
+        <test>11_FrontISTR\11031_static_solid_shell_contact.xml</test>
+        <test>11_FrontISTR\11032_static_shell_gravity.xml</test>
+        <test>11_FrontISTR\11033_static_shell_pressure.xml</test>
+        <test>11_FrontISTR\11034_thermal_steady_two_boxes.xml</test>
+        <test>11_FrontISTR\11035_thermal_steady_bc_heat_flux.xml</test>
+        <test>11_FrontISTR\11036_thermal_steady_multibody_hsec.xml</test>
+        <test>11_FrontISTR\11037_thermal_transient_bar.xml</test>
+    </tests>
+</testbook>
+
+
