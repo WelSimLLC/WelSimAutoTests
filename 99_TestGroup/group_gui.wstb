@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testbook>
+    <tests title="GUI">
+        <test>04_GUI\04001_import_a_shape.xml</test>
+        <test>04_GUI\04002_close_all_projects.xml</test>
+        <test>04_GUI\04003_select_bc_face.xml</test>
+        <test>04_GUI\04004_select_bc_faces.xml</test>
+        <test>04_GUI\04005_change_perf_unit.xml</test>
+        <test>04_GUI\04006_create_delete_mat_obj.xml</test>
+        <test>04_GUI\04007_clean_up_all.xml</test>
+        <test>04_GUI\04008_set_bc_displacement.xml</test>
+        <test>04_GUI\04009_save_shape_box.xml</test>
+        <test>04_GUI\04010_screen_capture_shape.xml</test>
+        <test>04_GUI\04011_save_shape_boxes.xml</test>
+        <test>04_GUI\04012_resume_structural_project.xml</test>
+        <test>04_GUI\04013_pause_test_1500ms.xml</test>
+        <test>04_GUI\04014_check_project_exist.xml</test>
+        <test>04_GUI\04015_regression_comment.xml</test>
+        <test>04_GUI\04016_create_cylinder.xml</test>
+        <test>04_GUI\04017_create_sphere.xml</test>
+        <test>04_GUI\04018_create_torus.xml</test>
+        <test>04_GUI\04019_create_plate.xml</test>
+        <test>04_GUI\04020_create_circle.xml</test>
+        <test>04_GUI\04021_create_line.xml</test>
+        <test>04_GUI\04022_contact_search_two_boxes.xml</test>
+        <test>04_GUI\04023_explode_view.xml</test>
+        <test>04_GUI\04024_contact_search_cup.xml</test>
+        <test>04_GUI\04025_shape_check.xml</test>
+        <test>04_GUI\04026_shape_refine.xml</test>
+        <test>04_GUI\04027_save_wsdb.xml</test>
+        <test>04_GUI\04028_property_pressure_value.xml</test>
+    </tests>
+</testbook>
+
+
