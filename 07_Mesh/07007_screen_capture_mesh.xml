@@ -14,25 +14,23 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.0.0.0.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="expand" arguments="5.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.0.0.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/11Length_x" command="set_double" arguments="20" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/12Length_x" command="set_double" arguments="20" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.0.1.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/11Length_y" command="set_double" arguments="1" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/12Length_y" command="set_double" arguments="1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.0.2.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/11Length_z" command="set_double" arguments="2" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/12Length_z" command="set_double" arguments="2" />
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/BarWidget/PinButton" command="set_boolean" arguments="true" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/AxesWidget" command="mousePress" arguments="1,1,0,50,50" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/AxesWidget" command="mouseRelease" arguments="1,0,0,50,50" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/BarWidget/PinButton" command="set_boolean" arguments="false" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/actionCenter" command="activate" arguments="" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/5midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/BarWidget/PinButton" command="set_boolean" arguments="true" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/5midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/AxesWidget" command="mousePress" arguments="1,1,0,50,50" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/5midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/AxesWidget" command="mouseRelease" arguments="1,0,0,50,50" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/5midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/BarWidget/PinButton" command="set_boolean" arguments="false" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/5midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/actionCenter" command="activate" arguments="" />
 
   <wsevent object="mainWindow/Fem_MeshAll/Fem_MeshAll" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.1.0" />
 
   <wsevent object="mainWindow/Std_ViewScreenCapture/Std_ViewScreenCapture" command="activate" arguments="" />
-  <wsevent object="mainWindow/QFileDialog/fileNameEdit" command="set_string" arguments="$WELSIM_DATA_ROOT/97_Exported/07007/welsim_screen.png" />
-  <wsevent object="mainWindow/QFileDialog/fileTypeCombo" command="activated" arguments="All Files (*)" />
-  <wsevent object="mainWindow/QFileDialog/buttonBox/1QPushButton0" command="activate" arguments="" />
+  <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/07007/welsim_screen.png" />
 
   <wscheck object="wsApp" property="hasFile" arguments="$WELSIM_DATA_ROOT/97_Exported/07007/welsim_screen.png" />
 
