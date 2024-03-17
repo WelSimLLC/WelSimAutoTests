@@ -6,9 +6,9 @@
   <wsevent object="mainWindow/Fem_ImportPart/Fem_ImportPart" command="activate" arguments="" />
   <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/h_sec/Geom12.step;;$WELSIM_DATA_ROOT/01_ShapeData/h_sec/Geom13.step;;$WELSIM_DATA_ROOT/01_ShapeData/h_sec/Geom14.step"/>
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/BarWidget/PinButton" command="set_boolean" arguments="true" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/ViewLinkButton" command="set_boolean" arguments="true" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/4midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/ViewLinkButton" command="set_boolean" arguments="false" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/5midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/BarWidget/PinButton" command="set_boolean" arguments="true" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/5midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/ViewLinkButton" command="set_boolean" arguments="true" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/5midSubView/qView3DMRML/centralWidget/ThreeDWidget3D/ThreeDViewController/qMRMLThreeDViewControllerWidget/ViewLinkButton" command="set_boolean" arguments="false" />
 
 
 </wsevents>

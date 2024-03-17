@@ -7,7 +7,7 @@
   
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.2.0.1.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/12Geometry/12SelBtnOK" command="set_selection" arguments="Obj11_Face4" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13Geometry/13SelBtnOK" command="set_selection" arguments="Obj12_Face4" />
 
   <wsevent object="mainWindow/menuBar" command="comment" arguments="comment on mainWindow/menuBar" />
   <wsevent object="mainWindow/mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="comment" arguments="comment on mainWindow/DockTreeDocking/TreeDocking/treeWidget" />
