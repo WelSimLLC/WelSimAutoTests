@@ -5,40 +5,5 @@
   <wsevent object="mainWindow/PrefDlg/pagesWidget/general/scrollArea/qt_scrollarea_viewport/contents/tabWidget/qt_tabwidget_stackedwidget/tabUnits/groupBoxUnits/radioUnitsMKS" command="set_boolean" arguments="true" />
   <wsevent object="mainWindow/PrefDlg/btnOK" command="activate" arguments="" />
 
-  <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
-  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_NewDoc" />
-  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/5PhysicsType" command="activated" arguments="Electromagnetics" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/5AnalysisType" command="activated" arguments="ElectroStatic" />
-
-  <wsevent object="mainWindow/Fem_ImportPart/Fem_ImportPart" command="activate" arguments="" />
-  <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/two_box_stack.step" />
-  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.0.0.0.0" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="8.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/12Material" command="activated" arguments="Air (ID:4)" />
-
-
-  <wsevent object="mainWindow/Fem_MeshAll/Fem_MeshAll" command="activate" arguments="" />
-
-  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.2.0.0.0" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="10.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/10Solver" command="activated" arguments="Elmer" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="11.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/10LinearSystemSolver" command="activated" arguments="Iterative" />
-
-  <wsevent object="mainWindow/Fem_BCEmGround/Fem_BCEmGround" command="activate" arguments="" />
-  <wsevent object="mainWindow/Fem_BCEmVoltage/Fem_BCEmVoltage" command="activate" arguments="" />
-  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.2.0.1.0" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13Geometry/13SelBtnOK" command="set_selection" arguments="Obj12_Face10" />
-  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.2.0.2.0" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/14Geometry/14SelBtnOK" command="set_selection" arguments="Obj12_Face3" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="7.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/14VoltageConstant/quantitySpinBox" command="set_double" arguments="1e+06" />
-
-  <wsevent object="mainWindow/Fem_Solve/Fem_Solve" command="activate" arguments="" />
 
 </wsevents>
