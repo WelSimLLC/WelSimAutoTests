@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testbook>
+    <tests title="BeamSection">
+        <test>09_BeamSection/09001_cross_section_i_beam.xml</test>
+        <test>09_BeamSection/09002_cross_section_hollow_rectangle.xml</test>
+        <test>09_BeamSection/09003_cross_section_rectangle.xml</test>
+        <test>09_BeamSection/09004_cross_section_c_beam.xml</test>
+        <test>09_BeamSection/09005_cross_section_t_beam.xml</test>
+        <test>09_BeamSection/09006_cross_section_hollow_circle.xml</test>
+        <test>09_BeamSection/09007_cross_section_round_bar.xml</test>
+        <test>09_BeamSection/09008_cross_section_angle.xml</test>
+    </tests>
+</testbook>
+
+

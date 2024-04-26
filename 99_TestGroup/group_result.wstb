@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testbook>
+    <tests title="Result">
+        <test>08_Result/08001_screen_capture_result.xml</test>
+    </tests>
+</testbook>
+
+

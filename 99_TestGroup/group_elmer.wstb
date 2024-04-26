@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testbook>
+    <tests title="Elmer">
+        <test>14_Elmer/14001_elmer_ex1_eigenvalue_beam.xml</test>
+        <test>14_Elmer/14002_elmer_ex1_eigenvalue_beam_aniso.xml</test>
+        <test>14_Elmer/14003_elmer_ex2_flow_a_hole.xml</test>
+        <test>14_Elmer/14004_elmer_ex2_flow_a_hole_slip_bc.xml</test>
+        <test>14_Elmer/14005_elmer_ex3_electrostatics.xml</test>
+        <test>14_Elmer/14006_elmer_ex4_induction_heat.xml</test>
+        <test>14_Elmer/14025_elmer_ex5_simple_actuator.xml</test>
+        <test>14_Elmer/14026_elmer_ex6_axisymmetric_coasting.xml</test>
+        <test>14_Elmer/14028_elmer_ex8_temperature_bem.xml</test>
+        <test>14_Elmer/14030_elmer_ex10_volume_flow.xml</test>
+        <test>14_Elmer/14031_elmer_ex11_streamline2d.xml</test>
+    </tests>
+</testbook>
+
+

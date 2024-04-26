@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testbook>
+    <tests title="CalculiX">
+        <test>13_CalculiX/13001_calculix_ex1_cantilever_beam.xml</test>
+        <test>13_CalculiX/13002_calculix_ex2_precompressed_cantilever_beam.xml</test>
+        <test>13_CalculiX/13002_calculix_ex3_slender_disk_on_shaft.xml</test>
+        <test>13_CalculiX/13006_calculix_ex6_capacitance_cylindrical_capacitor.xml</test>
+        <test>13_CalculiX/13008_calculix_ex8_lid_driven_cavity.xml</test>
+        <test>13_CalculiX/13009_calculix_ex9_couette1.xml</test>
+        <test>13_CalculiX/13010_calculix_ex10_agard05.xml</test>
+    </tests>
+</testbook>
+
+

@@ -98,7 +98,7 @@
   <wsevent object="mainWindow/Fem_RstStress/Fem_RstStress" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.4.0.1.0" />
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,619.7 psi" />
+  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,2776" />
   <!-- <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,5.436e-5 psi" /> -->
 
 

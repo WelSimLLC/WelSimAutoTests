@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testbook>
+    <tests title="OpenRadioss">
+        <test>12_OpenRadioss/12001_or_ice_cube_sliding.xml</test>
+        <test>12_OpenRadioss/12002_or_sheet_die.xml</test>
+        <test>12_OpenRadioss/12003_or_ball_rebounce.xml</test>
+        <test>12_OpenRadioss/12004_or_shell_collapse.xml</test>
+        <test>12_OpenRadioss/12005_or_multistep_spring_back.xml</test>
+        <test>12_OpenRadioss/12006_or_remesh_plate.xml</test>
+    </tests>
+</testbook>
+
+
