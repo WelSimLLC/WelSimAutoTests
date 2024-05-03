@@ -28,11 +28,11 @@ This repository contains official WelSim regression test cases. You are welcome 
 | 07_Mesh | 12 | [] |
 | 08_Result | 1 | [] |
 | 09_BeamSection | 8 | [] |
-| 11_FrontISTR | 37 | [] |
-| 12_OpenRadioss | 6 | [x] |
-| 13_CalculiX | 7 | [x] |
-| 14_Elmer | 11 | [x] |
-| 21_SU2 | 2 | [] |
-| 32_Palace | 1 | [] |
-| **Total** | **266** |
+| 11_FrontISTR | 38 | [] |
+| 12_OpenRadioss | 7 | [x] |
+| 13_CalculiX | 8 | [x] |
+| 14_Elmer | 12 | [x] |
+| 21_SU2 | 3 | [] |
+| 32_Palace | 2 | [] |
+| **Total** | **272** |
 
