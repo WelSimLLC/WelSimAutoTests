@@ -12,6 +12,10 @@ This repository contains official WelSim regression test cases. You are welcome 
 > [!IMPORTANT]
 > All test cases are synchronized with the latest development version. Please run the test cases using the latest development version of WELSIM. 
 
+> [!IMPORTANT]
+> The user needs to configure the **OpenRadioss**, **CalculiX**, and **Elmer** solvers by first before running the specific test cases. 
+
+
 ## Creating tests
 1. Set environment variables WELSIM_DATA_ROOT to the external file folder.
 2. Start the WELSIM application, and select the **Record test...** action from the menu **Tools**.
@@ -26,7 +30,7 @@ This repository contains official WelSim regression test cases. You are welcome 
 | 04_GUI | 28 | [] |
 | 06_MatEditor | 153 | [] |
 | 07_Mesh | 12 | [] |
-| 08_Result | 1 | [] |
+| 08_Result | 4 | [] |
 | 09_BeamSection | 8 | [] |
 | 11_FrontISTR | 38 | [] |
 | 12_OpenRadioss | 7 | [x] |
@@ -34,5 +38,5 @@ This repository contains official WelSim regression test cases. You are welcome 
 | 14_Elmer | 12 | [x] |
 | 21_SU2 | 3 | [] |
 | 32_Palace | 2 | [] |
-| **Total** | **272** |
+| **Total** | **275** |
 
