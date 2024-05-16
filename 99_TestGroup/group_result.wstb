@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testbook>
+    <tests title="Result">
+        <test>08_Result/08001_screen_capture_result.xml</test>
+        <test>08_Result/08002_export_result_structural.xml</test>
+        <test>08_Result/08003_export_all_results_structural.xml</test>
+        <test>08_Result/08004_export_all_results_cfd.xml</test>
+    </tests>
+</testbook>
+
+
