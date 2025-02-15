@@ -10,7 +10,8 @@ dir_paths = ['04_GUI',
              '13_CalculiX', 
              '14_Elmer',
              '21_SU2', 
-             '32_Palace']
+             '32_Palace',
+             '41_Lammps']
 
 
 def countFiles(dir_path):
