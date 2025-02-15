@@ -112,7 +112,7 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="4.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/18MasterGeometry/18SelBtnOK" command="set_selection" arguments="Obj15_Face1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/18TargetGeometry/18SelBtnOK" command="set_selection" arguments="Obj13_Edge2;;Obj14_Edge8;;Obj13_Edge11;;Obj13_Edge18;;Obj13_Edge28;;Obj14_Edge18" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/18TargetGeometry/18SelBtnOK" command="set_selection" arguments="Obj13_Edge2;;Obj14_Edge8;;Obj14_Edge11;;Obj14_Edge18;;Obj14_Edge21;;Obj14_Edge28" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/18ContactType" command="activated" arguments="Frictionless" />
 
