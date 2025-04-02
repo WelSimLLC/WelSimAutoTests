@@ -8,6 +8,7 @@
   <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
   <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_NewDoc" />
   <wsevent object="mainWindow/Shape_Box/Shape_Box" command="activate" arguments="" />
+
   <wsevent object="mainWindow/Fem_MeshAll/Fem_MeshAll" command="activate" arguments="" />
 
   <wsevent object="mainWindow/Fem_BCFixed/Fem_BCFixed" command="activate" arguments="" />
@@ -24,7 +25,7 @@
 
   <wsevent object="mainWindow/Fem_Solve/Fem_Solve" command="activate" arguments="" />
 
-  <wsevent object="mainWindow/Fem_RstUserDefined/Fem_RstUserDefined" command="activate" arguments="" />
+  <!-- <wsevent object="mainWindow/Fem_RstUserDefined/Fem_RstUserDefined" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="4.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15Expression" command="set_string" arguments="eps00" />
@@ -236,6 +237,7 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/40Expression" command="set_string" arguments="RFZ" />
   <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
   <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,49.9041967" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,-52.2717768" />
+  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,-52.2717768" /> -->
+
 
 </wsevents>
