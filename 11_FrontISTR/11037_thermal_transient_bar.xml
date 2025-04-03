@@ -102,54 +102,12 @@
 
   <wsevent object="mainWindow/Fem_RstTemp/Fem_RstTemp" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
-  <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,79.8" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,72.02" /> 
-
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15SetNumber" command="set_int" arguments="2" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,87.6" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,72.09" /> 
-
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15SetNumber" command="set_int" arguments="3" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,92.7" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,72.26" /> 
-
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15SetNumber" command="set_int" arguments="4" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,96.6" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,72.58" /> 
-
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15SetNumber" command="set_int" arguments="5" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,100.5" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,73.06" /> 
-
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15SetNumber" command="set_int" arguments="6" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,104.4" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,73.72" /> 
-
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15SetNumber" command="set_int" arguments="7" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,108.3" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,74.54" />
-
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15SetNumber" command="set_int" arguments="8" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,112.2" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,75.526" />
-
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15SetNumber" command="set_int" arguments="9" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,116.1" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,76.66" />
-
-
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15SetNumber" command="set_int" arguments="10" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,104.676" />
-  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,77.91" />
+  <wsevent object="mainWindow/Fem_EvaluateResult/Fem_EvaluateResult" command="activate" arguments="" />
+  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,90" />
+  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="10.1,72" />
+  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="11.1,119.7" />
+  <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="12.1,72" />
 
 </wsevents>

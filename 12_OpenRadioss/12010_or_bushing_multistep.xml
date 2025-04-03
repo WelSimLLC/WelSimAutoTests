@@ -33,7 +33,6 @@
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.1" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueDensity" command="set_double" arguments="6e-06" />
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="expand" arguments="1.0" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="1.0.0.1" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueMaterialConstantMu1" command="set_double" arguments="600000" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="1.0.1.1" />
@@ -58,7 +57,7 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="openContextMenu" arguments="0.0.1.0.0.0.0.0" />
   <wsevent object="wsContextMenu" command="activate" arguments="Rename" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget/qt_scrollarea_viewport/1QExpandingLineEdit0" command="set_string" arguments="bushing" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="8.1" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="9.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/13Material" command="activated" arguments="Rubber42 (ID:12)" />
 
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.1.0.0.0" />

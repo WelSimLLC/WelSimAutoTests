@@ -33,8 +33,6 @@
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="1" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_linear/lw_build_linear" command="setCheckState" arguments="0.0,2" />
 
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="expand" arguments="1.0" />
-
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="1.0.1.2" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/unitYoung&apos;sModulus" command="activated" arguments="MPa" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="1.0.1.1" />
@@ -44,8 +42,6 @@
 
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="4" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_plastic/lw_build_plastic" command="setCheckState" arguments="6.0,2" />
-
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="expand" arguments="2.0" />
 
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="2.0.0.2" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/unitInitialYieldStressa" command="activated" arguments="MPa" />
@@ -98,14 +94,10 @@
 
   <wsevent object="mainWindow/Shape_Plane/Shape_Plane" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.0.0.2.0" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="expand" arguments="5.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.0.0.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15Length Vector_x" command="set_double" arguments="200" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="expand" arguments="6.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.0.1.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15Width Vector_y" command="set_double" arguments="200" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="expand" arguments="7.0" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="expand" arguments="7.0.0.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="7.0.0.0.0.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/15Origin_x" command="set_double" arguments="-100" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="7.0.0.0.1.1" />
@@ -120,9 +112,6 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="4.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/8MaximumSize" command="set_double" arguments="10" />
   <wsevent object="mainWindow/Fem_MeshAll/Fem_MeshAll" command="activate" arguments="" />
-
-  <!-- 
-  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="expand" arguments="0.0.1.0.2.0" /> -->
 
   <wsevent object="mainWindow/Fem_AddContact/Fem_AddContact" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.2.0.0.0" />
@@ -156,8 +145,6 @@
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/19ContactType" command="activated" arguments="Frictionless" />
 
 
-  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0" />
-  <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="expand" arguments="0.0.1.0.3.0" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="6.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/10CurrentEndTime" command="set_double" arguments="0.03" />
