@@ -24,12 +24,10 @@
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.1" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setSelection" arguments="0.0,0.3" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueDensity" command="set_double" arguments="7850" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="expand" arguments="1.0" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="1.0.1.1" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueYoung&apos;sModulus" command="set_double" arguments="2.1e+11" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="1.0.2.1" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valuePoisson&apos;sRatio" command="set_double" arguments="0.2" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="expand" arguments="2.0" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="2.0.0.1" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueYieldStrength" command="set_double" arguments="3.55e+08" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="2.0.1.1" />
