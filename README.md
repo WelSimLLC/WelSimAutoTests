@@ -28,17 +28,17 @@ This repository contains official WelSim regression test cases. You are welcome 
 | **Folder** | **Number of Tests** | **External Solver** |
 |------------|---------------------|-----------|
 | 04_GUI | 28 |  |
-| 06_MatEditor | 156 |  |
+| 06_MatEditor | 158 |  |
 | 07_Mesh | 12 | |
 | 08_Result | 8 | |
 | 09_BeamSection | 8 | |
-| 11_FrontISTR | 40 | |
+| 11_FrontISTR | 46 | |
 | 12_OpenRadioss | 15 | [x] |
 | 13_CalculiX | 8 | [x] |
 | 14_Elmer | 12 | [x] |
 | 21_SU2 | 3 |  |
 | 32_Palace | 2 |  |
 | 41_Lammps | 1 | [x] |
-| **Total** | **293** |
+| **Total** | **301** |
 
 

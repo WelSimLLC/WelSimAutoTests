@@ -595,6 +595,6 @@
   <wsevent object="mainWindow/SaveDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/97_Exported/06323/mat_welsim.rad" />
 
   <wscheck object="wsApp" property="hasFile" arguments="$WELSIM_DATA_ROOT/97_Exported/06323/mat_welsim.xml" />  
-  <wscheck object="wsApp" property="hasFile" arguments="$WELSIM_DATA_ROOT/97_Exported/06017/mat_welsim.rad" /> 
+  <wscheck object="wsApp" property="hasFile" arguments="$WELSIM_DATA_ROOT/97_Exported/06323/mat_welsim.rad" /> 
 
 </wsevents>

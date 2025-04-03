@@ -8,6 +8,7 @@
   <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
   <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_NewDoc" />
   <wsevent object="mainWindow/Shape_Box/Shape_Box" command="activate" arguments="" />
+  
   <wsevent object="mainWindow/Fem_MeshAll/Fem_MeshAll" command="activate" arguments="" />
 
   <wsevent object="mainWindow/Fem_BCFixed/Fem_BCFixed" command="activate" arguments="" />
