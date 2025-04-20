@@ -203,9 +203,9 @@
   <wsevent object="mainWindow/Fem_AddContact/Fem_AddContact" command="activate" arguments="" />
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.2.0.4.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="4.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/24MasterGeometry/24SelBtnOK" command="set_selection" arguments="Obj13_Face1;;Obj14_Face2;;Obj14_Face3;;Obj15_Face1;;Obj15_Face2" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/24MasterGeometry/24SelBtnOK" command="set_selection" arguments="Obj17_Face1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
-  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/24TargetGeometry/24SelBtnOK" command="set_selection" arguments="Obj17_Face1" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/24TargetGeometry/24SelBtnOK" command="set_selection" arguments="Obj13_Face1;;Obj14_Face2;;Obj14_Face3;;Obj15_Face1;;Obj15_Face2" />
 
 
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.0.0" />
