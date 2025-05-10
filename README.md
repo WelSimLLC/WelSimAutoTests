@@ -10,7 +10,7 @@ This repository contains official WelSim regression test cases. You are welcome 
 4. Load the test cases and run.
 
 > [!IMPORTANT]
-> All test cases are synchronized with the latest development version. Please run the test cases using the latest development version of WELSIM. 
+> All test cases are synchronized with the latest development version, please run the test cases using the latest development version of WELSIM. You need a license to run the tests, request a free trial license? Refer to [Activation](https://welsim.com/activation).
 
 > [!IMPORTANT]
 > The user needs to configure the **OpenRadioss**, **CalculiX**, **Elmer**, and **LAMMPS** solvers by first before running the specific test cases. 
@@ -36,9 +36,9 @@ This repository contains official WelSim regression test cases. You are welcome 
 | 12_OpenRadioss | 17 | [x] |
 | 13_CalculiX | 8 | [x] |
 | 14_Elmer | 12 | [x] |
-| 21_SU2 | 3 |  |
+| 21_SU2 | 9 |  |
 | 32_Palace | 2 |  |
 | 41_Lammps | 1 | [x] |
-| **Total** | **303** |
+| **Total** | **309** |
 
 
