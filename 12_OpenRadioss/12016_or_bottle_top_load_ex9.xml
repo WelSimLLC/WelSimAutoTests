@@ -97,7 +97,6 @@
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" command="editAccepted" arguments="10.1,28500" />
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" command="edit" arguments="11.1" />
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" command="editAccepted" arguments="11.1,29000" />
-
   <wsevent object="mainWindow/wsMdiArea/wsTabBar/1CloseButton0" command="activate" arguments="" />
 
 

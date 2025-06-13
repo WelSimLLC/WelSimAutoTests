@@ -118,11 +118,7 @@
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" command="editAccepted" arguments="8.1,380" />
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" command="edit" arguments="9.1" />
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" command="editAccepted" arguments="9.1,400" />
-
   <wsevent object="mainWindow/wsMdiArea/wsTabBar/1CloseButton0" command="activate" arguments="" />
-
-
-
 
 
   <wsevent object="mainWindow/Mat_AddMaterial/Mat_AddMaterial" command="activate" arguments="" />
