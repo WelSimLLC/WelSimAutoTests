@@ -164,7 +164,7 @@
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="1.1,5.13505e-5" />
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="11.1,0.000551985" />
   <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="12.1,0.00060136" />
-  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="30.1,0.0015" />
+  <wscheck object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" property="modelItemData" arguments="29.1,0.0014519" />
 
 
   <!-- <wscheck object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" property="modelItemData" arguments="9.1,0.09526" />

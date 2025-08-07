@@ -27,7 +27,7 @@
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="1" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_linear/lw_build_linear" command="setCheckState" arguments="0.0,2" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="4" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_plastic/lw_build_plastic" command="setCheckState" arguments="9.0,2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_plastic/lw_build_plastic" command="setCheckState" arguments="8.0,2" />
 
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="0.1" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueDensity" command="set_double" arguments="7.8e-9" />
@@ -35,8 +35,8 @@
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueYoung&apos;sModulus" command="set_double" arguments="210000" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="1.0.2.1" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valuePoisson&apos;sRatio" command="set_double" arguments="0.3" />
+  
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/12midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="2.0" />
-
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/Table" command="editAccepted" arguments="0.0,0" />
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" command="editAccepted" arguments="0.0,0" />
   <wsevent object="mainWindow/DockTableDocking/TableDocking/TabularGUI/ColTables/splitter/SubTable" command="editAccepted" arguments="0.1,306" />
@@ -178,10 +178,23 @@
   <wsevent object="mainWindow/DockTreeDocking/TreeDocking/treeWidget" command="setCurrent" arguments="0.0.1.0.3.0.3.0" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="5.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/19Geometry/19SelBtnOK" command="set_selection" arguments="Obj14_Edge1;;Obj14_Edge5;;Obj14_Edge8;;Obj14_Edge11" />
+
+
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="7.1" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/19VelocityXLabel/ContextMenu" command="activate" arguments="" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/19VelocityXLabel/bcMenu" command="activate" arguments="Constant" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="7.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/19VelocityXConstant/quantitySpinBox" command="set_double" arguments="10" />
+
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="8.1" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/19VelocityYLabel/ContextMenu" command="activate" arguments="" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/19VelocityYLabel/bcMenu" command="activate" arguments="Constant" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="8.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/19VelocityYConstant/quantitySpinBox" command="set_double" arguments="0" />
+
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="9.1" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/19VelocityZLabel/ContextMenu" command="activate" arguments="" />
+  <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/19VelocityZLabel/bcMenu" command="activate" arguments="Constant" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData" command="setCurrent" arguments="9.1" />
   <wsevent object="mainWindow/DockPropDockingView/PropDockingView/PropView/tabWidget/qt_tabwidget_stackedwidget/propertyData/qt_scrollarea_viewport/19VelocityZConstant/quantitySpinBox" command="set_double" arguments="0" />
 
