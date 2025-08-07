@@ -14,7 +14,7 @@
 
 
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="4" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_plastic/lw_build_plastic" command="setCheckState" arguments="22.0,2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_plastic/lw_build_plastic" command="setCheckState" arguments="23.0,2" />
 
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="1.0.0.1" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueYoung&apos;smodulusE11" command="set_double" arguments="200000" />

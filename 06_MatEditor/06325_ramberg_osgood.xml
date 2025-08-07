@@ -24,7 +24,7 @@
 
 
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild" command="set_item" arguments="4" />
-  <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_plastic/lw_build_plastic" command="setCheckState" arguments="24.0,2" />
+  <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/tabWidget/qt_tabwidget_stackedwidget/tabBuild/toolBoxBuild/1QScrollArea0/qt_scrollarea_viewport/pg_build_plastic/lw_build_plastic" command="setCheckState" arguments="25.0,2" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="2.0.0.1" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor/qt_scrollarea_viewport/valueHardeningConstantK" command="set_double" arguments="200" />
   <wsevent object="mainWindow/wsMdiArea/wsViewPort/2midSubView/FemMdiWindow/MatEditor/splitter/layoutWidget/matPropView/PropEditor" command="setCurrent" arguments="2.0.1.1" />
