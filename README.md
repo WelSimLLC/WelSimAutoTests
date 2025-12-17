@@ -37,8 +37,8 @@ This repository contains official WelSim regression test cases. You are welcome 
 | 13_CalculiX | 8 | [x] |
 | 14_Elmer | 12 | [x] |
 | 21_SU2 | 9 |  |
-| 32_Palace | 2 |  |
+| 32_Palace | 21 |  |
 | 41_Lammps | 1 | [x] |
-| **Total** | **322** |
+| **Total** | **341** |
 
 
