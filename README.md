@@ -28,7 +28,7 @@ This repository contains official WelSim regression test cases. You are welcome 
 | **Folder** | **Number of Tests** | **External Solver** |
 |------------|---------------------|-----------|
 | 04_GUI | 29 |  |
-| 06_MatEditor | 161 |  |
+| 06_MatEditor | 162 |  |
 | 07_Mesh | 13 | |
 | 08_Result | 8 | |
 | 09_BeamSection | 8 | |
@@ -39,6 +39,6 @@ This repository contains official WelSim regression test cases. You are welcome 
 | 21_SU2 | 9 |  |
 | 32_Palace | 21 |  |
 | 41_Lammps | 1 | [x] |
-| **Total** | **354** |
+| **Total** | **355** |
 
 
