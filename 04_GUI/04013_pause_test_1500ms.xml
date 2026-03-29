@@ -1,7 +1,6 @@
 <?xml version="1.0" ?>
 <wsevents>
-  <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
-  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_NewDoc" />
+  <wsevent object="mainWindow/Fem_NewDoc/Fem_NewDoc" command="activate" arguments="" />
 
   <wsevent object="wsApp" command="pause" arguments="500" />
 
