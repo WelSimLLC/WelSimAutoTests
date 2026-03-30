@@ -5,8 +5,7 @@
   <wsevent object="mainWindow/PrefDlg/pagesWidget/general/scrollArea/qt_scrollarea_viewport/contents/tabWidget/qt_tabwidget_stackedwidget/tabUnits/groupBoxUnits/radioUnitsBIN" command="set_boolean" arguments="true" />
   <wsevent object="mainWindow/PrefDlg/btnOK" command="activate" arguments="" />
 
-  <wsevent object="mainWindow/menuBar" command="activate" arguments="&amp;File" />
-  <wsevent object="mainWindow/menuBar/&amp;File" command="activate" arguments="Fem_NewDoc" />
+  <wsevent object="mainWindow/Fem_NewDoc/Fem_NewDoc" command="activate" arguments="" />
 
   <wsevent object="mainWindow/Fem_ImportPart/Fem_ImportPart" command="activate" arguments="" />
   <wsevent object="mainWindow/OpenDialog" command="filesSelected" arguments="$WELSIM_DATA_ROOT/01_ShapeData/base_shell.step" />
