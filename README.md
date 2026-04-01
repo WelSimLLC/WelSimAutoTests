@@ -10,7 +10,10 @@ This repository contains official WelSim regression test cases. You are welcome 
 4. Load the test cases and run.
 
 > [!IMPORTANT]
-> All test cases are synchronized with the latest development version, please run the test cases using the latest development version of WELSIM. You need a license to run the tests, request a free trial license? Refer to [Activation](https://welsim.com/activation).
+> All test cases are synchronized with the latest development version, please run the test cases using the latest development version of WELSIM. You need a license to run the tests, request a free trial license? Refer to [Activation](https://welsim.com/activation). 
+
+> [!IMPORTANT]
+> The **Beta features** option from Preferences settings (Preferences->General->Appearance) must be **On**. 
 
 > [!IMPORTANT]
 > The user needs to configure the **OpenRadioss**, **CalculiX**, **Elmer**, and **LAMMPS** solvers by first before running the specific test cases. 
