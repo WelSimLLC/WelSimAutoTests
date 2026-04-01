@@ -6,17 +6,14 @@ This repository contains official WelSim regression test cases. You are welcome 
 ## Running tests
 1. Download the zip file or clone the repository.
 2. Set environment variables **WELSIM_DATA_ROOT** to the **WelSimAutoTests** folder.
-3. Start the WELSIM application, select the **Play test...** action from the menu **Tools**.
-4. Load the test cases and run.
+3. Start the WELSIM application, turn on the *Beta features** from Preferences settings (Preferences->General->Appearance).
+4. Restart the WELSIM application, select the **Play test...** action from the menu **Tools**.
+5. Load the test cases and run.
 
 > [!IMPORTANT]
-> All test cases are synchronized with the latest development version, please run the test cases using the latest development version of WELSIM. You need a license to run the tests, request a free trial license? Refer to [Activation](https://welsim.com/activation). 
-
-> [!IMPORTANT]
-> The **Beta features** option from Preferences settings (Preferences->General->Appearance) must be **On**. 
-
-> [!IMPORTANT]
-> The user needs to configure the **OpenRadioss**, **CalculiX**, **Elmer**, and **LAMMPS** solvers by first before running the specific test cases. 
+> * All test cases are synchronized with the latest development version, please run the test cases using the latest development version of WELSIM. 
+> * You need a license to run the tests, request a free trial license? Refer to [Activation](https://welsim.com/activation). 
+> * The user needs to configure the **OpenRadioss**, **CalculiX**, **Elmer**, and **LAMMPS** solvers before running the relevant test cases. 
 
 
 ## Creating tests
